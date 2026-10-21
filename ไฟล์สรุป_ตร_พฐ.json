@@ -1,0 +1,99 @@
+{
+  "total_pages" : 706,
+  "note" : "ทำการคัดกรองหน้าโฆษณา\/ใบปิด, ลบชื่อบุคคล, รหัสประจำตัว, ข้อความการตลาด (แจกฟรี, ห้ามพลาด, พี่บัส), และตรวจแก้คำสะกดผิดภาษาไทยออกทั้งหมด เหลือเฉพาะเนื้อหาสาระวิชาการ ข้อสอบ และสรุปสำคัญอย่างละเอียด",
+  "title" : "สรุปเนื้อหาเตรียมสอบตำรวจพิสูจน์หลักฐาน (ตร.พฐ.) - ฉบับวิชาการแท้ 100%",
+  "generated_at" : "2026-10-17T02:02:37+07:00",
+  "total_subjects" : 8,
+  "total_lines" : 32684,
+  "subjects" : [
+    {
+      "order" : "1st",
+      "file_path" : "json\/01_สรุปคณิตศาสตร์.json",
+      "total_pages" : 48,
+      "subject_name" : "คณิตศาสตร์ (ความสามารถทั่วไป)",
+      "subject_id" : "01",
+      "total_lines" : 2059,
+      "source_files" : [
+        "pdfs/1st สรุปคณิตศาสตร์.pdf"
+      ]
+    },
+    {
+      "order" : "2nd",
+      "file_path" : "json\/02_สรุปภาษาไทย.json",
+      "total_pages" : 50,
+      "subject_name" : "ภาษาไทย",
+      "subject_id" : "02",
+      "total_lines" : 2285,
+      "source_files" : [
+        "pdfs/2nd สรุปภาษาไทย.pdf"
+      ]
+    },
+    {
+      "order" : "3rd",
+      "file_path" : "json\/03_สรุปภาษาอังกฤษ.json",
+      "total_pages" : 87,
+      "subject_name" : "ภาษาอังกฤษ",
+      "subject_id" : "03",
+      "total_lines" : 5219,
+      "source_files" : [
+        "pdfs/3rd สรุปภาษาอังกฤษ.pdf"
+      ]
+    },
+    {
+      "order" : "4th",
+      "file_path" : "json\/04_สรุปคอมพิวเตอร์.json",
+      "total_pages" : 89,
+      "subject_name" : "คอมพิวเตอร์และเทคโนโลยีสารสนเทศ",
+      "subject_id" : "04",
+      "total_lines" : 6489,
+      "source_files" : [
+        "pdfs/4th สรุปคอมพิวเตอร์.pdf"
+      ]
+    },
+    {
+      "order" : "5th",
+      "file_path" : "json\/05_สรุปกฎหมาย.json",
+      "total_pages" : 152,
+      "subject_name" : "กฎหมายที่ประชาชนควรรู้",
+      "subject_id" : "05",
+      "total_lines" : 7504,
+      "source_files" : [
+        "pdfs/5th สรุปกฎหมาย (Part 1).pdf",
+        "pdfs/5th สรุปกฎหมาย (Part 2).pdf"
+      ]
+    },
+    {
+      "order" : "6th",
+      "file_path" : "json\/06_สรุประเบียบงานสารบรรณ.json",
+      "total_pages" : 201,
+      "subject_name" : "ระเบียบสำนักนายกรัฐมนตรี ว่าด้วยงานสารบรรณ",
+      "subject_id" : "06",
+      "total_lines" : 5308,
+      "source_files" : [
+        "pdfs/6th สรุประเบียบงานสารบรรณ (Part 1).pdf",
+        "pdfs/6th สรุประเบียบงานสารบรรณ (Part 2).pdf"
+      ]
+    },
+    {
+      "order" : "7th",
+      "file_path" : "json\/07_สรุประเบียบตำรวจ_ลักษณะ54.json",
+      "total_pages" : 36,
+      "subject_name" : "ระเบียบสำนักงานตำรวจแห่งชาติ (ลักษณะที่ 54)",
+      "subject_id" : "07",
+      "total_lines" : 2128,
+      "source_files" : [
+        "pdfs/7th สรุประเบียบตำรวจ (ลักษณะที่ 54).pdf"
+      ]
+    },
+    {
+      "total_pages" : 43,
+      "total_lines" : 1692,
+      "file_path" : "json\/08_ข้อสอบ150ข้อ.json",
+      "source_files" : [
+        "pdfs/ข้อสอบ 150 ข้อ (งานสารบรรณ + ลักษณะที่ 54).pdf"
+      ],
+      "subject_name" : "ข้อสอบ 150 ข้อ (งานสารบรรณ + ลักษณะที่ 54)",
+      "subject_id" : "08"
+    }
+  ]
+}
