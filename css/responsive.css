@@ -1,0 +1,385 @@
+/* Responsive Styles & Device Breakpoints */
+
+/* Tablet & Mobile (< 768px) */
+@media (max-width: 767.98px) {
+  .desktop-nav {
+    display: none !important;
+  }
+
+  .mobile-bottom-nav {
+    display: flex !important;
+  }
+
+  .main-content {
+    padding: var(--space-4);
+    padding-bottom: calc(var(--bottom-nav-height) + var(--space-6) + env(safe-area-inset-bottom, 0));
+  }
+
+  .app-header {
+    padding: 0 var(--space-3);
+  }
+
+  .split-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .split-sidebar {
+    position: static;
+    max-height: none;
+    margin-bottom: var(--space-4);
+  }
+
+  /* Content Reader Mobile Optimizations */
+  .reader-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .content-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--space-2);
+  }
+
+  .content-toolbar-subject {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .reader-quick-actions {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 2px;
+  }
+
+  .page-navigator-bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--space-2);
+  }
+
+  .page-controls {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+  }
+
+  .reader-page-select {
+    flex: 1;
+    max-width: none;
+    min-width: 0;
+    text-align: center;
+  }
+
+  .reader-search-box {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .content-reader-card {
+    padding: var(--space-4) var(--space-3);
+    margin-bottom: var(--space-4);
+    border-radius: var(--radius-md);
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .reader-page-heading {
+    font-size: clamp(1.15rem, 5vw, 1.4rem);
+  }
+
+  .reader-body {
+    font-size: var(--font-size-sm);
+    line-height: 1.65;
+  }
+
+  .reader-bottom-nav {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 8px !important;
+    flex-wrap: nowrap !important;
+    width: 100% !important;
+  }
+
+  .reader-bottom-nav .btn {
+    width: auto !important;
+    padding: 8px 12px !important;
+    font-size: var(--font-size-xs) !important;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+  }
+
+  .reader-bottom-page-info {
+    font-size: 11px !important;
+    white-space: nowrap !important;
+    text-align: center !important;
+    flex: 1 !important;
+  }
+
+  .question-card {
+    padding: var(--space-4);
+  }
+
+  .dashboard-hero h1 {
+    font-size: var(--font-size-xl);
+  }
+
+  .module-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pdf-viewer-wrapper {
+    height: calc(100vh - var(--header-height) - var(--bottom-nav-height) - 40px);
+    min-height: 400px;
+  }
+
+  .btn {
+    min-height: 40px; /* Comfortable touch target */
+  }
+
+  .option-card {
+    padding: var(--space-3);
+  }
+}
+
+/* Small Phones (< 480px) */
+@media (max-width: 479.98px) {
+  .header-brand span.brand-title {
+    font-size: var(--font-size-sm);
+  }
+
+  .quick-stats-row {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-header-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-2);
+  }
+
+  .content-reader-card {
+    padding: 14px 12px;
+  }
+
+  .callout-box {
+    padding: 10px 12px;
+  }
+}
+
+/* Tablet (768px - 1023.98px) */
+@media (min-width: 768px) and (max-width: 1023.98px) {
+  .module-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .split-layout {
+    grid-template-columns: 240px 1fr;
+    gap: var(--space-4);
+  }
+}
+
+/* Desktop & Large Screens (>= 1024px) */
+@media (min-width: 1024px) {
+  .module-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ==========================================================================
+   Auto-Resolution & Dynamic Viewport Adaptations
+   ========================================================================== */
+
+/* Compact Height Resolution (Laptops <= 768px height, split screen, landscape) */
+@media (max-height: 740px) {
+  .oxford-container {
+    gap: var(--space-2);
+    padding: var(--space-2);
+  }
+
+  .oxford-header-bar {
+    margin-bottom: 2px;
+  }
+
+  .oxford-level-row {
+    margin-bottom: 4px !important;
+  }
+
+  .oxford-progress-box {
+    padding: 4px 10px;
+  }
+
+  .oxford-flashcard-perspective {
+    min-height: 250px !important;
+  }
+
+  .oxford-flashcard-inner {
+    min-height: 250px !important;
+  }
+
+  .oxford-card-face {
+    padding: var(--space-3) var(--space-4) !important;
+  }
+
+  .oxford-word-text {
+    font-size: clamp(1.5rem, 5vw, 2.2rem) !important;
+  }
+
+  .oxford-controls-card {
+    padding: var(--space-2) var(--space-3) !important;
+  }
+
+  .oxford-keyboard-cue {
+    display: none;
+  }
+}
+
+/* Tablet & Mobile Resolution (< 768px width) */
+@media (max-width: 767.98px) {
+  .oxford-container {
+    max-width: 100%;
+    padding: var(--space-2);
+    padding-bottom: calc(var(--bottom-nav-height, 65px) + 60px) !important;
+    gap: var(--space-3);
+  }
+
+  .oxford-header-bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--space-2);
+  }
+
+  .oxford-tabs {
+    width: 100%;
+    display: flex;
+  }
+
+  .oxford-tab-btn {
+    flex: 1;
+    justify-content: center;
+  }
+
+  .oxford-toolbar-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  .oxford-toolbar-row > div {
+    display: flex;
+    width: 100%;
+  }
+
+  .oxford-toolbar-row .radio-pill-group {
+    flex: 1;
+  }
+
+  .oxford-toolbar-row .btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .oxford-card-face {
+    padding: var(--space-4);
+  }
+
+  .oxford-word-text {
+    font-size: clamp(1.65rem, 6.5vw, 2.35rem);
+  }
+
+  .oxford-thai-meaning {
+    font-size: clamp(1.25rem, 4.5vw, 1.5rem);
+  }
+
+  .oxford-controls-card {
+    padding: var(--space-3);
+  }
+
+  .oxford-vault-filter-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .oxford-vault-filter-card > div {
+    width: 100%;
+  }
+
+  .oxford-vault-filter-card select {
+    flex: 1;
+  }
+
+  .oxford-vault-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Small Phones (< 480px width) */
+@media (max-width: 479.98px) {
+  .oxford-level-chips {
+    width: 100%;
+  }
+
+  .level-chip {
+    padding: 3px 8px;
+    font-size: 11px;
+  }
+
+  .oxford-word-text {
+    font-size: clamp(1.45rem, 6vw, 1.95rem);
+  }
+}
+
+/* High-DPI & Ultrawide (> 1440px width) */
+@media (min-width: 1440px) {
+  .oxford-container {
+    max-width: 760px;
+  }
+
+  .oxford-flashcard-perspective {
+    min-height: 400px;
+  }
+
+  .oxford-flashcard-inner {
+    min-height: 400px;
+  }
+
+  .oxford-vault-grid {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  }
+}
+
+/* High-res / Print Styles */
+@media print {
+  .app-header, .mobile-bottom-nav, .app-footer, .btn, .page-controls {
+    display: none !important;
+  }
+
+  body {
+    background-color: #FFFFFF;
+    color: #000000;
+  }
+
+  .main-content {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .card, .content-reader-card, .question-card {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+}

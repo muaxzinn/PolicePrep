@@ -1,0 +1,37 @@
+{
+  "title": "Oxford 3000 Flashcard Studio & Vocabulary Bank (CEFR A1–B2)",
+  "version": "2.0.0",
+  "total_entries": 3805,
+  "total_verbs_with_3_forms": 831,
+  "total_examples": 11812,
+  "levels": {
+    "A1": {
+      "count": 1076,
+      "file": "data/oxford_a1.json",
+      "badge_color": "emerald"
+    },
+    "A2": {
+      "count": 990,
+      "file": "data/oxford_a2.json",
+      "badge_color": "cyan"
+    },
+    "B1": {
+      "count": 902,
+      "file": "data/oxford_b1.json",
+      "badge_color": "amber"
+    },
+    "B2": {
+      "count": 837,
+      "file": "data/oxford_b2.json",
+      "badge_color": "pink"
+    }
+  },
+  "features": [
+    "Verb 3 Forms (กริยา 3 ช่อง: V1, V2, V3, V.ing) with individual example sentences and audio",
+    "Multi-example sentences for all words with accurate Thai translations",
+    "Zero-spoiler front face with deep dive locked until card is flipped",
+    "Top-anchored unified operational toolbar and level filtering",
+    "Local persistence of Mastered vs Review progress",
+    "Web Speech API Pronunciation (US/UK) with custom voice settings"
+  ]
+}
