@@ -1,0 +1,43 @@
+{
+  "title": "รายการลิงก์จากการสแกน QR Code เอกสารสรุป ตร.พฐ.",
+  "scan_method": "Native macOS Vision / CoreImage CIDetector",
+  "total_items": 6,
+  "qr_links": [
+    {
+      "subject": "วิชาคณิตศาสตร์",
+      "image_file": "QR Code วิชาคณิตศาสตร์.jpeg",
+      "qr_url": "https://q.me-qr.com/su18z5t1",
+      "destination_url": "https://guru-summarize-math.pages.dev/"
+    },
+    {
+      "subject": "วิชาภาษาไทย",
+      "image_file": "QR Code วิชาภาษาไทย.jpeg",
+      "qr_url": "https://q.me-qr.com/2470ma1o",
+      "destination_url": "https://guru-buzzspeed-thai.pages.dev/"
+    },
+    {
+      "subject": "วิชาภาษาอังกฤษ",
+      "image_file": "QR Code วิชาภาษาอังกฤษ.jpeg",
+      "qr_url": "https://q.me-qr.com/5z9tmk5x",
+      "destination_url": "https://guru-buzzspeed-eng.pages.dev/"
+    },
+    {
+      "subject": "วิชาคอมพิวเตอร์",
+      "image_file": "QR Code วิชาคอมพิวเตอร์.jpeg",
+      "qr_url": "https://q.me-qr.com/6e0v6yef",
+      "destination_url": "https://guru-buzzspeed-computer.pages.dev/"
+    },
+    {
+      "subject": "วิชากฎหมาย",
+      "image_file": "QR Code วิชากฎหมาย.jpeg",
+      "qr_url": "https://q.me-qr.com/vlqud2a1",
+      "destination_url": "https://guru-buzzspeed-law.pages.dev/"
+    },
+    {
+      "subject": "วิชางานสารบรรณ + ลักษณะที่ 54",
+      "image_file": "QR Code วิชางานสารบรรณ + ลักษณะที่ 54.jpeg",
+      "qr_url": "https://q.me-qr.com/pytrqmwe",
+      "destination_url": "https://guru-buzzspeed-sarabun.pages.dev/"
+    }
+  ]
+}
