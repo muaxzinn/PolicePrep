@@ -1,0 +1,1002 @@
+{
+  "subject_id": "03",
+  "subject_name": "ภาษาอังกฤษ",
+  "ebook_title": "คู่มือสรุปเข้มภาษาอังกฤษ (ตร.พฐ.)",
+  "subtitle": "สรุปไวยากรณ์ 12 Tenses, S-V Agreement, Passive Voice, Conditionals, คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และเทคนิค Reading",
+  "total_chapters": 4,
+  "total_pages": 15,
+  "table_of_contents": [
+    {
+      "chapter_num": 1,
+      "title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "description": "โครงสร้างและการใช้งานกลุ่ม Present, Past, Future, และ Perfect Tenses ในข้อสอบตำรวจ",
+      "page_start": 1
+    },
+    {
+      "chapter_num": 2,
+      "title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "description": "Subject-Verb Agreement, Passive Voice, Conditionals, Relative Clauses, Modals และ Gerunds",
+      "page_start": 5
+    },
+    {
+      "chapter_num": 3,
+      "title": "คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+      "description": "คำศัพท์ความถี่สูงสำหรับการสืบสวน พยานหลักฐาน กระบวนการศาล และสถานที่เกิดเหตุ",
+      "page_start": 13
+    },
+    {
+      "chapter_num": 4,
+      "title": "ทักษะการอ่านและบทสนทนาสถานการณ์จริง (Reading & Conversation)",
+      "description": "เทคนิค Skimming, Scanning และสำนวนบทสนทนาการปฏิบัติหน้าที่ตำรวจ",
+      "page_start": 15
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "description": "โครงสร้างและการใช้งานกลุ่ม Present, Past, Future, และ Perfect Tenses ในข้อสอบตำรวจ",
+      "sections": [
+        {
+          "title": "Present Simple vs Present Continuous (ข้อเท็จจริง vs กำลังกระทำ)",
+          "body": "กาล (Tense) ในภาษาอังกฤษเป็นหัวใจสำคัญในการทำข้อสอบ Error Identification และ Sentence Completion:\n1. Present Simple (S + V1 (s/es)): ใช้กับข้อเท็จจริงทั่วไป กฎวิทยาศาสตร์ และนิสัยประจำตัว สังเกต Adverbs of frequency: always, usually, often, every day\n2. Present Continuous (S + is/am/are + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในขณะพูด สังเกต: now, right now, at the moment, Look!, Listen!\nStative Verbs (กริยาบอกสภาวะ ความรู้สึก ประสาทสัมผัส การรับรู้ ความเป็นเจ้าของ) 'ห้ามใช้ในรูป Continuous เด็ดขาด' ได้แก่: believe, know, understand, remember, love, hate, want, need, belong, own, have (มีความหมายว่ามี), smell, taste",
+          "bullet_points": [
+            "ประธานเอกพจน์บุรุษที่ 3 (He, She, It, A cat, The police officer) กริยาช่อง 1 ต้องเติม -s หรือ -es เสมอ",
+            "Stative Verbs เช่น 'I am understanding this rule' ❌ ผิดทันที ต้องแก้เป็น 'I understand this rule' ✔️",
+            "Adverb of frequency วางไว้หน้ากริยาแท้ แต่อยู่หลังกริยาช่วย (is/am/are, have/has)"
+          ],
+          "callout": {
+            "type": "warning",
+            "title": "กับดัก Stative Verbs",
+            "content": "กริยา have, smell, taste, see, think ถ้าใช้ในความหมายสภาวะ ห้ามเติม -ing แต่ถ้าแปลว่า 'กำลังลงมือกระทำ' เติม -ing ได้ เช่น:\n- I have a car. (มีรถ - สภาวะ)\n- I am having lunch. (กำลังกินข้าว - การกระทำ ✔️)"
+          },
+          "key_takeaways": [
+            "Present Simple = กฎเกณฑ์ ความจริง นิสัย",
+            "Present Continuous = กำลังเกิดขึ้น ณ วินาทีนี้ (มี now, at present)",
+            "Stative Verbs ห้ามใช้ใน Continuous Tense"
+          ]
+        },
+        {
+          "title": "Past Simple vs Past Continuous (เหตุการณ์ในอดีตและการแทรกแซง)",
+          "body": "1. Past Simple (S + V2): ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วอย่างสมบูรณ์ในอดีต มักระบุเวลาชัดเจน (yesterday, last night, two days ago, in 2021, when I was young)\n2. Past Continuous (S + was/were + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในอดีต ณ จุดเวลาใดเวลาหนึ่ง หรือเกิดร่วมกับเหตุการณ์อื่น:\n- เหตุการณ์กำลังดำเนินอยู่ (Past Continuous) แล้วมีเหตุการณ์สั้นๆ เกิดแทรกเข้ามา (Past Simple) เชื่อมด้วย While / When / As",
+          "bullet_points": [
+            "While / As + Past Continuous (was/were + V-ing): ขณะที่กำลังทำสิ่งหนึ่งอยู่",
+            "When + Past Simple (V2): เมื่อมีอีกสิ่งหนึ่งแทรกเข้ามาทันที",
+            "สองเหตุการณ์กำลังเกิดขึ้นพร้อมกันในอดีต: While he was reading, his wife was cooking."
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "สูตรจำ While vs When",
+            "content": "• While + Past Continuous (was/were + V-ing) [ฉากหลัง กำลังทำยาวนาน]\n• When + Past Simple (V2) [เหตุการณ์ฉับพลัน แทรกเข้ามา]\nเช่น: While the investigator was examining the room, the phone rang."
+          },
+          "key_takeaways": [
+            "กริยาที่เกิดแทรกเข้ามาใช้ V2 เสมอ",
+            "มีเวลาอดีตชัดเจน (ago, yesterday) ใช้ Past Simple เสมอ"
+          ]
+        },
+        {
+          "title": "Present Perfect vs Past Simple (ผลกระทบถึงปัจจุบัน vs อดีตที่ตัดขาด)",
+          "body": "Present Perfect (S + have/has + V3) ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ส่งผลถึงปัจจุบัน หรือเริ่มในอดีตและยังดำเนินต่อมา:\n- คำบอกเวลาเฉพาะ: since (ตั้งแต่ + จุดเวลา), for (เป็นเวลา + ระยะเวลา), already, yet, just, recently, ever, never, so far\n- ความแตกต่างสำคัญ: Past Simple (V2) เกิดและจบในอดีต ตัดขาดจากปัจจุบันอย่างสิ้นเชิง แต่ Present Perfect ยังเชื่อมโยงกับปัจจุบัน",
+          "bullet_points": [
+            "Since + จุดเริ่มต้นของเวลา: since 2018, since morning, since last year, since + S + V2",
+            "For + ช่วงระยะเวลา: for 10 years, for three days, for an hour",
+            "Already ใช้ในประโยคบอกเล่า, Yet ใช้ท้ายประโยคปฏิเสธและคำถาม"
+          ],
+          "callout": {
+            "type": "formula",
+            "title": "สูตรโครงสร้าง Since ซ้อนประโยค",
+            "content": "S + Present Perfect (have/has + V3) + SINCE + S + Past Simple (V2)\nเช่น: Forensic officers have used this technique since it was invented in 1985."
+          },
+          "key_takeaways": [
+            "มีคำว่า yesterday, ago, in 1999 ห้ามใช้ have/has เด็ดขาด ต้องใช้ V2",
+            "Since ตามด้วยจุดเวลา หรือ ประโยค V2"
+          ]
+        },
+        {
+          "title": "Past Perfect & Future Tenses (อดีตก่อนอดีต และอนาคตกาล)",
+          "body": "1. Past Perfect (S + had + V3): ใช้บอกเหตุการณ์ที่ 'เกิดและจบลงก่อน' อีกเหตุการณ์หนึ่งในอดีต (เกิดก่อนใช้ Past Perfect had + V3, เกิดหลังใช้ Past Simple V2)\n   - คำเชื่อม: Before, After, By the time\n2. Future Tenses:\n   - Future Simple (S + will + V.inf): ตัดสินใจกะทันหัน หรือคาดเดาอนาคต\n   - Be going to (S + is/am/are going to + V.inf): วางแผนไว้ล่วงหน้า หรือมีหลักฐานชัดเจนว่าจะเกิดขึ้น (เช่น ท้องฟ้ามืดครึ้ม It is going to rain)\n   - Future Perfect (S + will have + V3): จะเสร็จสิ้นก่อนจุดเวลาหนึ่งในอนาคต (สังเกต By + เวลาในอนาคต เช่น By next year, by 5 o'clock)",
+          "bullet_points": [
+            "After + Had + V3 (เกิดก่อน), V2 (เกิดหลัง): After the suspect had fled, police arrived.",
+            "Before + V2 (เกิดหลัง), Had + V3 (เกิดก่อน): The victim had died before the ambulance arrived.",
+            "By the time + V1, will have + V3 (อนาคต) / By the time + V2, had + V3 (อดีต)"
+          ],
+          "callout": {
+            "type": "formula",
+            "title": "สูตร By the time ยอดฮิต",
+            "content": "1. By the time + S + V2, S + HAD + V3 (อดีต)\n2. By the time + S + V1, S + WILL HAVE + V3 (อนาคต)"
+          },
+          "key_takeaways": [
+            "Past Perfect ไม่เคยอยู่เดี่ยวๆ ต้องเทียบกับ Past Simple เสมอ",
+            "By the time มักออกคู่กับ Perfect Tense (Had + V3 หรือ Will have + V3)"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "description": "Subject-Verb Agreement, Passive Voice, Conditionals, Relative Clauses, Modals และ Gerunds",
+      "sections": [
+        {
+          "title": "กฎความสอดคล้องของประธานและกริยา (Subject-Verb Agreement)",
+          "body": "กฎความสอดคล้องระหว่างประธานและกริยาเป็นหัวข้อที่ออกสอบ Error บ่อยที่สุด:\n1. วลีขยายประธาน: กริยาต้องผันตามประธานแท้ตัวหน้า ไม่ใช่คำนามในบุพบทวลี (The box of chocolates IS on the table.)\n2. ประธานเชื่อมด้วย with, together with, along with, as well as, including, accompanied by: กริยาผันตาม 'ประธานตัวหน้าสุด'\n3. ประธานเชื่อมด้วย Either...or, Neither...nor, Not only...but also: กริยาผันตาม 'ประธานตัวที่อยู่ใกล้กริยาที่สุด'\n4. คำสรรพนามไม่เจาะจง (Indefinite Pronouns) ถือเป็น 'เอกพจน์เสมอ': Everyone, Everybody, Someone, Anybody, Nobody, Each, Every, One, Either, Neither -> กริยาเติม -s หรือใช้ is/has/was",
+          "bullet_points": [
+            "คำว่า 'The number of + นามพหูพจน์' เป็นเอกพจน์ (กริยาใช้ is/has) เช่น The number of crimes is decreasing.",
+            "คำว่า 'A number of + นามพหูพจน์' เป็นพหูพจน์ (กริยาใช้ are/have) เช่น A number of suspects were arrested.",
+            "นามที่ลงท้ายด้วย -s แต่เป็นเอกพจน์: ข่าว (News), ชื่อวิชา (Physics, Mathematics, Economics), ชื่อโรค (Measles, Diabetes)"
+          ],
+          "callout": {
+            "type": "rule",
+            "title": "กฎจำ The number of vs A number of",
+            "content": "• THE number of -> กริยา 'เอกพจน์' (เน้นตัวเลขจำนวน)\n• A number of -> กริยา 'พหูพจน์' (แปลว่า มากมายหลายคน/สิ่ง)"
+          },
+          "key_takeaways": [
+            "มองข้ามบุพบทวลี (of, in, with) เพื่อหาประธานแท้ของประโยค",
+            "Everyone, Nobody, Each ถือเป็นประธานเอกพจน์เสมอ"
+          ]
+        },
+        {
+          "title": "Active Voice vs. Passive Voice ในงานสืบสวนและรายงาน",
+          "body": "Passive Voice (ประธานถูกกระทำ) นิยมใช้อย่างมากในงานข่าว รายงานคดี และวิทยาศาสตร์ เมื่อไม่ต้องการเน้นผู้กระทำ หรือไม่ทราบว่าใครเป็นผู้กระทำ:\nโครงสร้างหลัก: Subject + Verb to be + Past Participle (V3)\n- Present Simple: is/am/are + V3 (Evidence is collected carefully.)\n- Past Simple: was/were + V3 (The suspect was interrogated yesterday.)\n- Present Perfect: have/has been + V3 (The report has been submitted.)\n- Modal verbs: modal + be + V3 (The fingerprint must be analyzed.)",
+          "bullet_points": [
+            "กริยาอกรรมกริยา (Intransitive Verbs: กริยาที่ไม่ต้องมีกรรม เช่น happen, occur, take place, die, arrive, appear) 'ห้ามทำเป็น Passive Voice เด็ดขาด'",
+            "เช่น: The accident was happened yesterday. ❌ ผิดมหันต์! ต้องแก้เป็น The accident happened yesterday. ✔️",
+            "สังเกตคำว่า 'by + ผู้กระทำ' มักเป็นตัวชี้วัด Passive Voice"
+          ],
+          "callout": {
+            "type": "warning",
+            "title": "กริยาที่ห้ามทำ Passive Voice",
+            "content": "Happen, Occur, Arise, Disappear, Die, Belong to, Consist of\nคำเหล่านี้ไม่สามารถเขียนในรูป was happened หรือ is occurred ได้โดยเด็ดขาด!"
+          },
+          "key_takeaways": [
+            "Passive Voice โครงสร้างต้องมี Be + V3 เสมอ",
+            "คำว่า เกิดขึ้น (Happen, Occur) เป็น Active Voice เสมอ"
+          ]
+        },
+        {
+          "title": "ประโยคเงื่อนไข (Conditional Sentences / If-Clauses)",
+          "body": "โครงสร้างประโยคเงื่อนไข 4 แบบที่ออกข้อสอบเป็นประจำ:\n1. Type 0 (ความจริงแท้): If + Present Simple (V1), Present Simple (V1) (If you heat ice, it melts.)\n2. Type 1 (เป็นไปได้ในอนาคต): If + Present Simple (V1), Future Simple (will + V.inf) (If it rains, we will stay home.)\n3. Type 2 (สมมุติตรงข้ามความจริงในปัจจุบัน): If + Past Simple (V2 / were), would + V.inf (If I were you, I would tell the truth.)\n4. Type 3 (สมมุติตรงข้ามความจริงในอดีต เสียใจย้อนหลัง): If + Past Perfect (had + V3), would have + V3 (If they had investigated thoroughly, they would have caught the killer.)",
+          "bullet_points": [
+            "ใน Type 2 กริยา Verb to be นิยมใช้ 'were' กับประธานทุกตัว (If I were, If he were)",
+            "การละ If (Inversion):\n  - Type 1: Should you need help, please call me. (= If you should need...)\n  - Type 2: Were I rich, I would travel. (= If I were rich...)\n  - Type 3: Had he known the truth, he would have acted differently. (= If he had known...)"
+          ],
+          "callout": {
+            "type": "formula",
+            "title": "ตารางจับคู่ Tense ของ If-Clause",
+            "content": "Type 1: If + V1 ---> will + V.inf\nType 2: If + V2 (were) ---> would + V.inf\nType 3: If + had + V3 ---> would have + V3"
+          },
+          "key_takeaways": [
+            "เช็กคู่ Tense ระหว่างหน้า If และหลัง If เสมอ",
+            "Had + V3 ด้านหน้า ต้องคู่กับ Would have + V3 ด้านหลัง"
+          ]
+        },
+        {
+          "title": "Relative Clauses & Relative Pronouns (ประโยคคุณานุประโยค)",
+          "body": "Relative Pronouns ใช้เชื่อมประโยคย่อยเพื่อขยายคำนามด้านหน้า:\n- Who: แทนคน ทำหน้าที่เป็นประธาน (The officer who arrested the thief is brave.)\n- Whom: แทนคน ทำหน้าที่เป็นกรรม (The witness whom police interviewed was terrified.)\n- Whose: แทนความเป็นเจ้าของ ทั้งคนและสิ่งของ (The man whose car was stolen reported to police.)\n- Which: แทนสัตว์และสิ่งของ (The weapon which was found belongs to the suspect.)\n- That: แทนได้ทั้งคน สัตว์ สิ่งของ (ใช้เฉพาะใน Defining clause ไม่มีเครื่องหมายจุลภาค , )\n- Where: แทนสถานที่ (= in/at which)\n- When: แทนเวลา (= at/on which)",
+          "bullet_points": [
+            "Non-defining Relative Clause (มีเครื่องหมายจุลภาค , , คั่น): เป็นเพียงข้อมูลเสริม ห้ามใช้ 'that' เด็ดขาด (ต้องใช้ who หรือ which)",
+            "Preposition + Relative Pronoun: บุพบทวางหน้าได้เฉพาะ 'whom' (คน) หรือ 'which' (สิ่งของ) เท่านั้น ห้ามใช้นำหน้า who หรือ that",
+            "Whose + นามไม่ใส่ article: whose car, whose evidence (ห้าม whose the car)"
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "วิธีแยก Who vs Whom",
+            "content": "• WHO + Verb (เพราะ who ทำหน้าที่เป็นประธาน)\n• WHOM + Subject + Verb (เพราะ whom ทำหน้าที่เป็นกรรม มีประธานอีกตัวมารับ)"
+          },
+          "key_takeaways": [
+            "หลังเครื่องหมายจุลภาค (Comma , ) ห้ามใช้ THAT เด็ดขาด",
+            "Whose บอกเจ้าของ ต้องตามด้วยคำนามทันที"
+          ]
+        },
+        {
+          "title": "Modal Verbs & Modal Perfects (กริยาช่วยและการคาดคะเน)",
+          "body": "กริยาช่วย (Modal Verbs): Can, Could, May, Might, Must, Should, Ought to, Will, Would\nกฎพื้นฐาน: Modal Verbs ทุกตัวต้องตามด้วย 'กริยาช่อง 1 ไม่ผัน (V.inf)' ห้ามเติม -s, -ed, -ing หรือ to เด็ดขาด (ยกเว้น ought to)\nModal Perfects (Modal + have + V3): ใช้สำหรับการคาดเดาหรือวิจารณ์เหตุการณ์ใน 'อดีต':\n- Must have + V3: ต้องเกิดขึ้นอย่างแน่นอนในอดีต (มีหลักฐานชี้ชัด เช่น The ground is wet. It must have rained.)\n- Can't have / Couldn't have + V3: เป็นไปไม่ได้อย่างยิ่งที่จะเกิดขึ้นในอดีต\n- Should have + V3: ควรจะทำในอดีตแต่ความจริงไม่ได้ทำ (แสดงความเสียดาย/ตำหนิ)\n- Might have + V3: อาจจะเกิดขึ้นในอดีต (ไม่แน่ใจ)",
+          "bullet_points": [
+            "Must = ต้องทำ (มีอำนาจสั่งการ / ข้อบังคับ) หรือ แน่ใจ 95%",
+            "Should = ควรทำ (คำแนะนำ)",
+            "You should have worn gloves. = คุณควรจะใส่ถุงมือนะ (แต่ตอนนั้นไม่ได้ใส่)"
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "สูตรคาดเดาในอดีต",
+            "content": "• Must have + V3 = มั่นใจว่าทำแน่ๆ ในอดีต\n• Should have + V3 = รู้งี้ทำไปแล้วดีกว่า (ไม่ได้ทำ)\n• Couldn't have + V3 = ไม่มีทางเป็นไปได้เด็ดขาด"
+          },
+          "key_takeaways": [
+            "หลัง Modal ธรรมดาตามด้วย V.inf เสมอ",
+            "Modal + have + V3 ใช้พูดถึงเรื่องในอดีตเท่านั้น"
+          ]
+        },
+        {
+          "title": "Gerunds vs. Infinitives (กริยารูป -ing และ to + V)",
+          "body": "1. คำกริยาที่ต้องตามด้วย Gerund (V-ing) เสมอ:\n   Admit, Avoid, Consider, Deny, Enjoy, Finish, Mind, Postpone, Practice, Recommend, Risk, Suggest\n   สำนวนยอดฮิต: Look forward to + V-ing, Be used to + V-ing, Can't help + V-ing, It's no use + V-ing\n2. คำกริยาที่ต้องตามด้วย to + V.inf เสมอ:\n   Agree, Decide, Hope, Learn, Manage, Offer, Plan, Promise, Refuse, Want, Wish, Would like\n3. กริยาที่ตามได้ทั้งสองแบบ แต่ 'ความหมายเปลี่ยน':\n   - Stop + to V: หยุดสิ่งที่ทำอยู่เพื่อไปทำสิ่งใหม่ (He stopped to smoke. หยุดเดินเพื่อไปสูบบุหรี่)\n   - Stop + V-ing: เลิกทำสิ่งนั้น (He stopped smoking. เขาเลิกสูบบุหรี่ถาวร)\n   - Remember + to V: จำได้ว่าต้องทำ (ยังไม่ได้ทำ)\n   - Remember + V-ing: จำได้ว่าเคยทำในอดีต",
+          "bullet_points": [
+            "คำบุพบท (in, on, at, about, for, without, before, after) + V-ing เสมอ: He left without saying goodbye.",
+            "คำว่า 'Look forward to' คำว่า to เป็นบุพบท จึงต้องตามด้วย V-ing (Looking forward to hearing from you.)",
+            "Avoid + V-ing: The criminal avoided leaving fingerprints."
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "สูตรจำกริยาตามด้วย V-ing",
+            "content": "ท่องกลุ่มคำ: Avoid (หลีกเลี่ยง), Deny (ปฏิเสธ), Admit (ยอมรับ), Suggest (แนะนำ), Enjoy (เพลิดเพลิน), Finish (เสร็จสิ้น) -> ทั้งหมดนี้ตามด้วย V-ing เสมอ!"
+          },
+          "key_takeaways": [
+            "หลัง Preposition ต้องตามด้วย V-ing เสมอ",
+            "Decide, Plan, Hope ตามด้วย to + V.inf"
+          ]
+        },
+        {
+          "title": "Reported Speech / Direct & Indirect Speech (การรายงานคำพูด)",
+          "body": "การเปลี่ยนคำพูดโดยตรง (Direct) เป็นคำพูดรายงาน (Indirect) ในกรณีที่กริยานำเป็นอดีต (said, told, asked):\n1. ถอย Tense ถอยหลัง 1 กาล (Backshift):\n   - Present Simple (V1) -> Past Simple (V2)\n   - Present Continuous (is/am/are) -> Past Continuous (was/were)\n   - Present Perfect (have/has + V3) -> Past Perfect (had + V3)\n   - Past Simple (V2) -> Past Perfect (had + V3)\n   - Will -> Would, Can -> Could, May -> Might, Must -> Had to\n2. การเปลี่ยนสรรพนามและกาลเวลา:\n   - today -> that day, tomorrow -> the next day, yesterday -> the day before, now -> then, here -> there, this -> that",
+          "bullet_points": [
+            "Said vs Told: Said ไม่มีกรรม (He said that...) / Told ต้องมีกรรม (He told me that...)",
+            "ประโยคคำถามแบบ Yes/No: ใช้ If หรือ Whether เชื่อม (He asked if I had seen the suspect.)",
+            "ประโยคคำสั่ง/ขอร้อง: ใช้ to + V.inf หรือ not to + V.inf (The officer told him to stop.)"
+          ],
+          "callout": {
+            "type": "rule",
+            "title": "กฎ Told ต้องมีกรรม",
+            "content": "• He said that... ✔️\n• He said to me that... ✔️\n• He told that... ❌ (ผิดทันที ต้องมีคนรับฟัง: He told ME that... ✔️)"
+          },
+          "key_takeaways": [
+            "กริยานำเป็น Said / Told เมื่อใด ให้ถอย Tense เสมอ",
+            "Told ต้องมีกรรม (Told someone) เสมอ"
+          ]
+        },
+        {
+          "title": "คำเชื่อมและตัวเชื่อมความสัมพันธ์ (Connectors & Transitions)",
+          "body": "คำเชื่อมแบ่งตามความหมายและความสัมพันธ์ทางตรรกะ:\n1. แสดงความขัดแย้ง (Contrast):\n   - ตามด้วยประโยค (S + V): Although, Even though, Though, While, Whereas\n   - ตามด้วยคำนาม/วลี (Noun/V-ing): Despite, In spite of\n   - คำเชื่อมประสานขึ้นประโยคใหม่: However, Nevertheless, On the other hand\n2. แสดงความเป็นเหตุเป็นผล (Cause & Effect):\n   - บอกสาเหตุ + S + V: Because, Since, As\n   - บอกสาเหตุ + นาม/วลี: Because of, Due to, Owing to, As a result of\n   - บอกผลลัพธ์: Therefore, Consequently, As a result, Thus\n3. แสดงการเพิ่มเติม (Addition):\n   - Furthermore, Moreover, In addition, Besides (นอกจากนี้)",
+          "bullet_points": [
+            "Although + ประโยค (Although it was raining, he went out.)",
+            "Despite + นาม (Despite the heavy rain, he went out.)",
+            "ห้ามใช้ Although คู่กับ But ในประโยคเดียวกันเด็ดขาด (เลือกใช้อย่างใดอย่างหนึ่ง)"
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "จุดจับผิด Although vs Despite",
+            "content": "ดูคำที่ตามหลัง:\n• มีประธาน + กริยา -> ใช้ Although / Because\n• มีแต่นามวลี ไม่มีกริยาแท้ -> ใช้ Despite / Because of"
+          },
+          "key_takeaways": [
+            "Despite / In spite of ตามด้วยคำนามหรือ Gerund เสมอ",
+            "ห้ามใช้ Although และ But พร้อมกันในประโยคเดียว"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "title": "คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+      "description": "คำศัพท์ความถี่สูงสำหรับการสืบสวน พยานหลักฐาน กระบวนการศาล และสถานที่เกิดเหตุ",
+      "sections": [
+        {
+          "title": "คำศัพท์การสืบสวนและสถานที่เกิดเหตุ (Investigation & Crime Scene)",
+          "body": "คำศัพท์ที่พบบ่อยที่สุดในข้อสอบตำรวจพิสูจน์หลักฐาน:\n- Crime scene: สถานที่เกิดเหตุ\n- Evidence: พยานหลักฐาน (เป็นคำนามนับไม่ได้ ห้ามเติม -s และห้ามใช้ an evidence)\n- Forensic: ทางนิติวิทยาศาสตร์ (Forensic science, Forensic pathologist)\n- Suspect: ผู้ต้องสงสัย (ผู้ที่เชื่อว่าอาจก่อเหตุ)\n- Victim: เหยื่อ / ผู้เสียหาย\n- Witness: พยานบุคคล (Eye-witness = พยานผู้เห็นเหตุการณ์)\n- Investigation: การสืบสวนสอบสวน (Investigator = พนักงานสืบสวน)\n- Fingerprint: ลายนิ้วมือ (Latent fingerprint = ลายนิ้วมือแฝง)\n- Bloodstain: คราบเลือด\n- Cordon off: ปิดกั้นพื้นที่ (Police cordoned off the crime scene.)\n- Preserve: รักษาสภาพ (Preserve the evidence)\n- Chain of custody: ห่วงโซ่การคุ้มครองพยานหลักฐาน",
+          "bullet_points": [
+            "Evidence เป็นนามนับไม่ได้ ถ้าต้องการบอกชิ้น ให้ใช้ 'a piece of evidence'",
+            "Interrogate = สอบปากคำผู้ต้องหา (เข้มงวด) / Interview = สอบถามพยาน",
+            "Autopsy / Post-mortem = การผ่าชันสูตรพลิกศพ"
+          ],
+          "callout": {
+            "type": "warning",
+            "title": "Evidence ห้ามเติม -s",
+            "content": "ข้อสอบชอบหลอก Error: 'The police found many evidences.' ❌ ผิดไวยากรณ์\nต้องแก้เป็น: 'The police found much evidence.' หรือ 'pieces of evidence' ✔️"
+          },
+          "key_takeaways": [
+            "Evidence นับไม่ได้ ห้ามมี an หรือเติม -s",
+            "Cordon off แปลว่า ปิดกั้นแนวเขตสถานที่เกิดเหตุ"
+          ]
+        },
+        {
+          "title": "คำศัพท์กฎหมาย คดีอาญา และกระบวนการยุติธรรม (Legal & Judicial Terms)",
+          "body": "คำศัพท์ทางกฎหมายและกระบวนการยุติธรรม:\n- Arrest: จับกุม (under arrest = อยู่ภายใต้การจับกุม)\n- Arrest warrant: หมายจับ / Search warrant: หมายค้น\n- Charge with: ตั้งข้อหา (He was charged with murder.)\n- Custody: การควบคุมตัว (in police custody)\n- Bail: การประกันตัว (release on bail)\n- Guilty: มีความผิด / Innocent: บริสุทธิ์\n- Verdict: คำพิพากษาตัดสินของคณะลูกขุนหรือศาล\n- Sentence: คำตัดสินลงโทษ (He was sentenced to 5 years in prison.)\n- Prosecutor: อัยการ / Plaintiff: โจทก์ / Defendant: จำเลย\n- Homicide: การฆาตกรรม / Theft: การลักทรัพย์ / Burglary: การงัดแงะ / Robbery: การชิงทรัพย์ / Fraud: การฉ้อโกง\n- Testify: เบิกความต่อศาล / Testimony: คำให้การในศาล",
+          "bullet_points": [
+            "Be charged with + ฐานความผิด (He was charged with theft.)",
+            "Be accused of + การกระทำผิด (He was accused of stealing money.)",
+            "Sentence (เมื่อเป็นกริยา) = ตัดสินลงโทษ (Sentenced to death/prison)"
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "คู่คำบุพบทประจำคำศัพท์กฎหมาย",
+            "content": "• Charge WITH\n• Accuse OF\n• Sentence TO\n• Suspect OF"
+          },
+          "key_takeaways": [
+            "Charge ใช้คู่กับ with, Accuse ใช้คู่กับ of",
+            "Defendant คือ จำเลย, Prosecutor คือ อัยการ"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "title": "ทักษะการอ่านและบทสนทนาสถานการณ์จริง (Reading & Conversation)",
+      "description": "เทคนิค Skimming, Scanning และสำนวนบทสนทนาการปฏิบัติหน้าที่ตำรวจ",
+      "sections": [
+        {
+          "title": "Reading Comprehension & Police Situational Dialogues",
+          "body": "1. กลยุทธ์การทำข้อสอบ Reading:\n   - Skimming: อ่านกวาดตาเร็วๆ เพื่อหา Main Idea และทัศนคติของผู้เขียน (อ่านบรรทัดแรกและบรรทัดท้ายของแต่ละย่อหน้า)\n   - Scanning: มองหาข้อมูลเฉพาะเจาะจง เช่น ตัวเลข ชื่อบุคคล สถานที่ วันที่ โดยดูคีย์เวิร์ดจากโจทย์ก่อนแล้วย้อนมากวาดหาในเนื้อเรื่อง\n   - Context Clues: เดาความหมายคำศัพท์ที่ไม่รู้จากบริบทแวดล้อม (คำนิยาม, ตัวอย่าง, คำเชื่อมขัดแย้ง)\n2. บทสนทนาสถานการณ์ตำรวจ (Situational Dialogues):\n   - การรับแจ้งเหตุ: 'What seems to be the problem?' / 'Could you describe the suspect?'\n   - การขอตรวจค้น: 'May I see your identification card, please?' / 'Step out of the vehicle, please.'\n   - การเตือนสิทธิ (Miranda Warning): 'You have the right to remain silent. Anything you say can and will be used against you in a court of law.'",
+          "bullet_points": [
+            "การอ่านคำถามก่อนอ่านเนื้อเรื่อง ช่วยประหยัดเวลาในการทำข้อสอบอย่างน้อย 30%",
+            "คำตอบของคำถามประเภทข้อเท็จจริง (Who, When, Where) มักเรียงตามลำดับย่อหน้าในบทความ",
+            "คำว่า 'remain silent' หมายถึง มีสิทธิที่จะไม่พูดหรือให้การใดๆ"
+          ],
+          "callout": {
+            "type": "tip",
+            "title": "วิธีเดาศัพท์จาก Context Clues",
+            "content": "มองหาเครื่องหมายจุลภาค , หรือคำว่า such as, or, meaning, that is คำที่อยู่หลังเครื่องหมายเหล่านี้มักเป็นคำอธิบายความหมายของคำศัพท์ยากที่อยู่ด้านหน้า"
+          },
+          "key_takeaways": [
+            "อ่านโจทย์ก่อนอ่านบทความเสมอเพื่อล็อกเป้าหมายคำค้นหา",
+            "ทำความเข้าใจสำนวนการสนทนาทางการและสุภาพในการปฏิบัติงาน"
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "chapter_num": 1,
+      "chapter_title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "title": "Present Simple vs Present Continuous (ข้อเท็จจริง vs กำลังกระทำ)",
+      "reading_time_min": 1,
+      "content": "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)\nหัวข้อ: Present Simple vs Present Continuous (ข้อเท็จจริง vs กำลังกระทำ)\n\nกาล (Tense) ในภาษาอังกฤษเป็นหัวใจสำคัญในการทำข้อสอบ Error Identification และ Sentence Completion:\n1. Present Simple (S + V1 (s/es)): ใช้กับข้อเท็จจริงทั่วไป กฎวิทยาศาสตร์ และนิสัยประจำตัว สังเกต Adverbs of frequency: always, usually, often, every day\n2. Present Continuous (S + is/am/are + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในขณะพูด สังเกต: now, right now, at the moment, Look!, Listen!\nStative Verbs (กริยาบอกสภาวะ ความรู้สึก ประสาทสัมผัส การรับรู้ ความเป็นเจ้าของ) 'ห้ามใช้ในรูป Continuous เด็ดขาด' ได้แก่: believe, know, understand, remember, love, hate, want, need, belong, own, have (มีความหมายว่ามี), smell, taste\n\nสาระสำคัญและหลักการ:\n• ประธานเอกพจน์บุรุษที่ 3 (He, She, It, A cat, The police officer) กริยาช่อง 1 ต้องเติม -s หรือ -es เสมอ\n• Stative Verbs เช่น 'I am understanding this rule' ❌ ผิดทันที ต้องแก้เป็น 'I understand this rule' ✔️\n• Adverb of frequency วางไว้หน้ากริยาแท้ แต่อยู่หลังกริยาช่วย (is/am/are, have/has)\n\n[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: กับดัก Stative Verbs]\n> กริยา have, smell, taste, see, think ถ้าใช้ในความหมายสภาวะ ห้ามเติม -ing แต่ถ้าแปลว่า 'กำลังลงมือกระทำ' เติม -ing ได้ เช่น:\n- I have a car. (มีรถ - สภาวะ)\n- I am having lunch. (กำลังกินข้าว - การกระทำ ✔️)\n\nสรุปประเด็นจำแม่น:\n✓ Present Simple = กฎเกณฑ์ ความจริง นิสัย\n✓ Present Continuous = กำลังเกิดขึ้น ณ วินาทีนี้ (มี now, at present)\n✓ Stative Verbs ห้ามใช้ใน Continuous Tense\n",
+      "lines": [
+        "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+        "หัวข้อ: Present Simple vs Present Continuous (ข้อเท็จจริง vs กำลังกระทำ)",
+        "",
+        "กาล (Tense) ในภาษาอังกฤษเป็นหัวใจสำคัญในการทำข้อสอบ Error Identification และ Sentence Completion:",
+        "1. Present Simple (S + V1 (s/es)): ใช้กับข้อเท็จจริงทั่วไป กฎวิทยาศาสตร์ และนิสัยประจำตัว สังเกต Adverbs of frequency: always, usually, often, every day",
+        "2. Present Continuous (S + is/am/are + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในขณะพูด สังเกต: now, right now, at the moment, Look!, Listen!",
+        "Stative Verbs (กริยาบอกสภาวะ ความรู้สึก ประสาทสัมผัส การรับรู้ ความเป็นเจ้าของ) 'ห้ามใช้ในรูป Continuous เด็ดขาด' ได้แก่: believe, know, understand, remember, love, hate, want, need, belong, own, have (มีความหมายว่ามี), smell, taste",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• ประธานเอกพจน์บุรุษที่ 3 (He, She, It, A cat, The police officer) กริยาช่อง 1 ต้องเติม -s หรือ -es เสมอ",
+        "• Stative Verbs เช่น 'I am understanding this rule' ❌ ผิดทันที ต้องแก้เป็น 'I understand this rule' ✔️",
+        "• Adverb of frequency วางไว้หน้ากริยาแท้ แต่อยู่หลังกริยาช่วย (is/am/are, have/has)",
+        "",
+        "[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: กับดัก Stative Verbs]",
+        "> กริยา have, smell, taste, see, think ถ้าใช้ในความหมายสภาวะ ห้ามเติม -ing แต่ถ้าแปลว่า 'กำลังลงมือกระทำ' เติม -ing ได้ เช่น:\n- I have a car. (มีรถ - สภาวะ)\n- I am having lunch. (กำลังกินข้าว - การกระทำ ✔️)",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Present Simple = กฎเกณฑ์ ความจริง นิสัย",
+        "✓ Present Continuous = กำลังเกิดขึ้น ณ วินาทีนี้ (มี now, at present)",
+        "✓ Stative Verbs ห้ามใช้ใน Continuous Tense",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "title": "กับดัก Stative Verbs",
+          "content": "กริยา have, smell, taste, see, think ถ้าใช้ในความหมายสภาวะ ห้ามเติม -ing แต่ถ้าแปลว่า 'กำลังลงมือกระทำ' เติม -ing ได้ เช่น:\n- I have a car. (มีรถ - สภาวะ)\n- I am having lunch. (กำลังกินข้าว - การกระทำ ✔️)"
+        }
+      ],
+      "key_takeaways": [
+        "Present Simple = กฎเกณฑ์ ความจริง นิสัย",
+        "Present Continuous = กำลังเกิดขึ้น ณ วินาทีนี้ (มี now, at present)",
+        "Stative Verbs ห้ามใช้ใน Continuous Tense"
+      ]
+    },
+    {
+      "page_number": 2,
+      "chapter_num": 1,
+      "chapter_title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "title": "Past Simple vs Past Continuous (เหตุการณ์ในอดีตและการแทรกแซง)",
+      "reading_time_min": 1,
+      "content": "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)\nหัวข้อ: Past Simple vs Past Continuous (เหตุการณ์ในอดีตและการแทรกแซง)\n\n1. Past Simple (S + V2): ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วอย่างสมบูรณ์ในอดีต มักระบุเวลาชัดเจน (yesterday, last night, two days ago, in 2021, when I was young)\n2. Past Continuous (S + was/were + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในอดีต ณ จุดเวลาใดเวลาหนึ่ง หรือเกิดร่วมกับเหตุการณ์อื่น:\n- เหตุการณ์กำลังดำเนินอยู่ (Past Continuous) แล้วมีเหตุการณ์สั้นๆ เกิดแทรกเข้ามา (Past Simple) เชื่อมด้วย While / When / As\n\nสาระสำคัญและหลักการ:\n• While / As + Past Continuous (was/were + V-ing): ขณะที่กำลังทำสิ่งหนึ่งอยู่\n• When + Past Simple (V2): เมื่อมีอีกสิ่งหนึ่งแทรกเข้ามาทันที\n• สองเหตุการณ์กำลังเกิดขึ้นพร้อมกันในอดีต: While he was reading, his wife was cooking.\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรจำ While vs When]\n> • While + Past Continuous (was/were + V-ing) [ฉากหลัง กำลังทำยาวนาน]\n• When + Past Simple (V2) [เหตุการณ์ฉับพลัน แทรกเข้ามา]\nเช่น: While the investigator was examining the room, the phone rang.\n\nสรุปประเด็นจำแม่น:\n✓ กริยาที่เกิดแทรกเข้ามาใช้ V2 เสมอ\n✓ มีเวลาอดีตชัดเจน (ago, yesterday) ใช้ Past Simple เสมอ\n",
+      "lines": [
+        "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+        "หัวข้อ: Past Simple vs Past Continuous (เหตุการณ์ในอดีตและการแทรกแซง)",
+        "",
+        "1. Past Simple (S + V2): ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วอย่างสมบูรณ์ในอดีต มักระบุเวลาชัดเจน (yesterday, last night, two days ago, in 2021, when I was young)",
+        "2. Past Continuous (S + was/were + V-ing): ใช้กับเหตุการณ์ที่กำลังดำเนินอยู่ในอดีต ณ จุดเวลาใดเวลาหนึ่ง หรือเกิดร่วมกับเหตุการณ์อื่น:",
+        "- เหตุการณ์กำลังดำเนินอยู่ (Past Continuous) แล้วมีเหตุการณ์สั้นๆ เกิดแทรกเข้ามา (Past Simple) เชื่อมด้วย While / When / As",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• While / As + Past Continuous (was/were + V-ing): ขณะที่กำลังทำสิ่งหนึ่งอยู่",
+        "• When + Past Simple (V2): เมื่อมีอีกสิ่งหนึ่งแทรกเข้ามาทันที",
+        "• สองเหตุการณ์กำลังเกิดขึ้นพร้อมกันในอดีต: While he was reading, his wife was cooking.",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรจำ While vs When]",
+        "> • While + Past Continuous (was/were + V-ing) [ฉากหลัง กำลังทำยาวนาน]\n• When + Past Simple (V2) [เหตุการณ์ฉับพลัน แทรกเข้ามา]\nเช่น: While the investigator was examining the room, the phone rang.",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ กริยาที่เกิดแทรกเข้ามาใช้ V2 เสมอ",
+        "✓ มีเวลาอดีตชัดเจน (ago, yesterday) ใช้ Past Simple เสมอ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "สูตรจำ While vs When",
+          "content": "• While + Past Continuous (was/were + V-ing) [ฉากหลัง กำลังทำยาวนาน]\n• When + Past Simple (V2) [เหตุการณ์ฉับพลัน แทรกเข้ามา]\nเช่น: While the investigator was examining the room, the phone rang."
+        }
+      ],
+      "key_takeaways": [
+        "กริยาที่เกิดแทรกเข้ามาใช้ V2 เสมอ",
+        "มีเวลาอดีตชัดเจน (ago, yesterday) ใช้ Past Simple เสมอ"
+      ]
+    },
+    {
+      "page_number": 3,
+      "chapter_num": 1,
+      "chapter_title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "title": "Present Perfect vs Past Simple (ผลกระทบถึงปัจจุบัน vs อดีตที่ตัดขาด)",
+      "reading_time_min": 1,
+      "content": "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)\nหัวข้อ: Present Perfect vs Past Simple (ผลกระทบถึงปัจจุบัน vs อดีตที่ตัดขาด)\n\nPresent Perfect (S + have/has + V3) ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ส่งผลถึงปัจจุบัน หรือเริ่มในอดีตและยังดำเนินต่อมา:\n- คำบอกเวลาเฉพาะ: since (ตั้งแต่ + จุดเวลา), for (เป็นเวลา + ระยะเวลา), already, yet, just, recently, ever, never, so far\n- ความแตกต่างสำคัญ: Past Simple (V2) เกิดและจบในอดีต ตัดขาดจากปัจจุบันอย่างสิ้นเชิง แต่ Present Perfect ยังเชื่อมโยงกับปัจจุบัน\n\nสาระสำคัญและหลักการ:\n• Since + จุดเริ่มต้นของเวลา: since 2018, since morning, since last year, since + S + V2\n• For + ช่วงระยะเวลา: for 10 years, for three days, for an hour\n• Already ใช้ในประโยคบอกเล่า, Yet ใช้ท้ายประโยคปฏิเสธและคำถาม\n\n[📐 สูตร / กฎเกณฑ์สำคัญ: สูตรโครงสร้าง Since ซ้อนประโยค]\n> S + Present Perfect (have/has + V3) + SINCE + S + Past Simple (V2)\nเช่น: Forensic officers have used this technique since it was invented in 1985.\n\nสรุปประเด็นจำแม่น:\n✓ มีคำว่า yesterday, ago, in 1999 ห้ามใช้ have/has เด็ดขาด ต้องใช้ V2\n✓ Since ตามด้วยจุดเวลา หรือ ประโยค V2\n",
+      "lines": [
+        "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+        "หัวข้อ: Present Perfect vs Past Simple (ผลกระทบถึงปัจจุบัน vs อดีตที่ตัดขาด)",
+        "",
+        "Present Perfect (S + have/has + V3) ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตแต่ส่งผลถึงปัจจุบัน หรือเริ่มในอดีตและยังดำเนินต่อมา:",
+        "- คำบอกเวลาเฉพาะ: since (ตั้งแต่ + จุดเวลา), for (เป็นเวลา + ระยะเวลา), already, yet, just, recently, ever, never, so far",
+        "- ความแตกต่างสำคัญ: Past Simple (V2) เกิดและจบในอดีต ตัดขาดจากปัจจุบันอย่างสิ้นเชิง แต่ Present Perfect ยังเชื่อมโยงกับปัจจุบัน",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Since + จุดเริ่มต้นของเวลา: since 2018, since morning, since last year, since + S + V2",
+        "• For + ช่วงระยะเวลา: for 10 years, for three days, for an hour",
+        "• Already ใช้ในประโยคบอกเล่า, Yet ใช้ท้ายประโยคปฏิเสธและคำถาม",
+        "",
+        "[📐 สูตร / กฎเกณฑ์สำคัญ: สูตรโครงสร้าง Since ซ้อนประโยค]",
+        "> S + Present Perfect (have/has + V3) + SINCE + S + Past Simple (V2)\nเช่น: Forensic officers have used this technique since it was invented in 1985.",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ มีคำว่า yesterday, ago, in 1999 ห้ามใช้ have/has เด็ดขาด ต้องใช้ V2",
+        "✓ Since ตามด้วยจุดเวลา หรือ ประโยค V2",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "formula",
+          "title": "สูตรโครงสร้าง Since ซ้อนประโยค",
+          "content": "S + Present Perfect (have/has + V3) + SINCE + S + Past Simple (V2)\nเช่น: Forensic officers have used this technique since it was invented in 1985."
+        }
+      ],
+      "key_takeaways": [
+        "มีคำว่า yesterday, ago, in 1999 ห้ามใช้ have/has เด็ดขาด ต้องใช้ V2",
+        "Since ตามด้วยจุดเวลา หรือ ประโยค V2"
+      ]
+    },
+    {
+      "page_number": 4,
+      "chapter_num": 1,
+      "chapter_title": "ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+      "title": "Past Perfect & Future Tenses (อดีตก่อนอดีต และอนาคตกาล)",
+      "reading_time_min": 1,
+      "content": "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)\nหัวข้อ: Past Perfect & Future Tenses (อดีตก่อนอดีต และอนาคตกาล)\n\n1. Past Perfect (S + had + V3): ใช้บอกเหตุการณ์ที่ 'เกิดและจบลงก่อน' อีกเหตุการณ์หนึ่งในอดีต (เกิดก่อนใช้ Past Perfect had + V3, เกิดหลังใช้ Past Simple V2)\n   - คำเชื่อม: Before, After, By the time\n2. Future Tenses:\n   - Future Simple (S + will + V.inf): ตัดสินใจกะทันหัน หรือคาดเดาอนาคต\n   - Be going to (S + is/am/are going to + V.inf): วางแผนไว้ล่วงหน้า หรือมีหลักฐานชัดเจนว่าจะเกิดขึ้น (เช่น ท้องฟ้ามืดครึ้ม It is going to rain)\n   - Future Perfect (S + will have + V3): จะเสร็จสิ้นก่อนจุดเวลาหนึ่งในอนาคต (สังเกต By + เวลาในอนาคต เช่น By next year, by 5 o'clock)\n\nสาระสำคัญและหลักการ:\n• After + Had + V3 (เกิดก่อน), V2 (เกิดหลัง): After the suspect had fled, police arrived.\n• Before + V2 (เกิดหลัง), Had + V3 (เกิดก่อน): The victim had died before the ambulance arrived.\n• By the time + V1, will have + V3 (อนาคต) / By the time + V2, had + V3 (อดีต)\n\n[📐 สูตร / กฎเกณฑ์สำคัญ: สูตร By the time ยอดฮิต]\n> 1. By the time + S + V2, S + HAD + V3 (อดีต)\n2. By the time + S + V1, S + WILL HAVE + V3 (อนาคต)\n\nสรุปประเด็นจำแม่น:\n✓ Past Perfect ไม่เคยอยู่เดี่ยวๆ ต้องเทียบกับ Past Simple เสมอ\n✓ By the time มักออกคู่กับ Perfect Tense (Had + V3 หรือ Will have + V3)\n",
+      "lines": [
+        "บทที่ 1: ไวยากรณ์และกาลเวลาสำคัญ (Essential English Tenses)",
+        "หัวข้อ: Past Perfect & Future Tenses (อดีตก่อนอดีต และอนาคตกาล)",
+        "",
+        "1. Past Perfect (S + had + V3): ใช้บอกเหตุการณ์ที่ 'เกิดและจบลงก่อน' อีกเหตุการณ์หนึ่งในอดีต (เกิดก่อนใช้ Past Perfect had + V3, เกิดหลังใช้ Past Simple V2)",
+        "   - คำเชื่อม: Before, After, By the time",
+        "2. Future Tenses:",
+        "   - Future Simple (S + will + V.inf): ตัดสินใจกะทันหัน หรือคาดเดาอนาคต",
+        "   - Be going to (S + is/am/are going to + V.inf): วางแผนไว้ล่วงหน้า หรือมีหลักฐานชัดเจนว่าจะเกิดขึ้น (เช่น ท้องฟ้ามืดครึ้ม It is going to rain)",
+        "   - Future Perfect (S + will have + V3): จะเสร็จสิ้นก่อนจุดเวลาหนึ่งในอนาคต (สังเกต By + เวลาในอนาคต เช่น By next year, by 5 o'clock)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• After + Had + V3 (เกิดก่อน), V2 (เกิดหลัง): After the suspect had fled, police arrived.",
+        "• Before + V2 (เกิดหลัง), Had + V3 (เกิดก่อน): The victim had died before the ambulance arrived.",
+        "• By the time + V1, will have + V3 (อนาคต) / By the time + V2, had + V3 (อดีต)",
+        "",
+        "[📐 สูตร / กฎเกณฑ์สำคัญ: สูตร By the time ยอดฮิต]",
+        "> 1. By the time + S + V2, S + HAD + V3 (อดีต)\n2. By the time + S + V1, S + WILL HAVE + V3 (อนาคต)",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Past Perfect ไม่เคยอยู่เดี่ยวๆ ต้องเทียบกับ Past Simple เสมอ",
+        "✓ By the time มักออกคู่กับ Perfect Tense (Had + V3 หรือ Will have + V3)",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "formula",
+          "title": "สูตร By the time ยอดฮิต",
+          "content": "1. By the time + S + V2, S + HAD + V3 (อดีต)\n2. By the time + S + V1, S + WILL HAVE + V3 (อนาคต)"
+        }
+      ],
+      "key_takeaways": [
+        "Past Perfect ไม่เคยอยู่เดี่ยวๆ ต้องเทียบกับ Past Simple เสมอ",
+        "By the time มักออกคู่กับ Perfect Tense (Had + V3 หรือ Will have + V3)"
+      ]
+    },
+    {
+      "page_number": 5,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "กฎความสอดคล้องของประธานและกริยา (Subject-Verb Agreement)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: กฎความสอดคล้องของประธานและกริยา (Subject-Verb Agreement)\n\nกฎความสอดคล้องระหว่างประธานและกริยาเป็นหัวข้อที่ออกสอบ Error บ่อยที่สุด:\n1. วลีขยายประธาน: กริยาต้องผันตามประธานแท้ตัวหน้า ไม่ใช่คำนามในบุพบทวลี (The box of chocolates IS on the table.)\n2. ประธานเชื่อมด้วย with, together with, along with, as well as, including, accompanied by: กริยาผันตาม 'ประธานตัวหน้าสุด'\n3. ประธานเชื่อมด้วย Either...or, Neither...nor, Not only...but also: กริยาผันตาม 'ประธานตัวที่อยู่ใกล้กริยาที่สุด'\n4. คำสรรพนามไม่เจาะจง (Indefinite Pronouns) ถือเป็น 'เอกพจน์เสมอ': Everyone, Everybody, Someone, Anybody, Nobody, Each, Every, One, Either, Neither -> กริยาเติม -s หรือใช้ is/has/was\n\nสาระสำคัญและหลักการ:\n• คำว่า 'The number of + นามพหูพจน์' เป็นเอกพจน์ (กริยาใช้ is/has) เช่น The number of crimes is decreasing.\n• คำว่า 'A number of + นามพหูพจน์' เป็นพหูพจน์ (กริยาใช้ are/have) เช่น A number of suspects were arrested.\n• นามที่ลงท้ายด้วย -s แต่เป็นเอกพจน์: ข่าว (News), ชื่อวิชา (Physics, Mathematics, Economics), ชื่อโรค (Measles, Diabetes)\n\n[⚖️ ตัวบท / ระเบียบกฎหมาย: กฎจำ The number of vs A number of]\n> • THE number of -> กริยา 'เอกพจน์' (เน้นตัวเลขจำนวน)\n• A number of -> กริยา 'พหูพจน์' (แปลว่า มากมายหลายคน/สิ่ง)\n\nสรุปประเด็นจำแม่น:\n✓ มองข้ามบุพบทวลี (of, in, with) เพื่อหาประธานแท้ของประโยค\n✓ Everyone, Nobody, Each ถือเป็นประธานเอกพจน์เสมอ\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: กฎความสอดคล้องของประธานและกริยา (Subject-Verb Agreement)",
+        "",
+        "กฎความสอดคล้องระหว่างประธานและกริยาเป็นหัวข้อที่ออกสอบ Error บ่อยที่สุด:",
+        "1. วลีขยายประธาน: กริยาต้องผันตามประธานแท้ตัวหน้า ไม่ใช่คำนามในบุพบทวลี (The box of chocolates IS on the table.)",
+        "2. ประธานเชื่อมด้วย with, together with, along with, as well as, including, accompanied by: กริยาผันตาม 'ประธานตัวหน้าสุด'",
+        "3. ประธานเชื่อมด้วย Either...or, Neither...nor, Not only...but also: กริยาผันตาม 'ประธานตัวที่อยู่ใกล้กริยาที่สุด'",
+        "4. คำสรรพนามไม่เจาะจง (Indefinite Pronouns) ถือเป็น 'เอกพจน์เสมอ': Everyone, Everybody, Someone, Anybody, Nobody, Each, Every, One, Either, Neither -> กริยาเติม -s หรือใช้ is/has/was",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• คำว่า 'The number of + นามพหูพจน์' เป็นเอกพจน์ (กริยาใช้ is/has) เช่น The number of crimes is decreasing.",
+        "• คำว่า 'A number of + นามพหูพจน์' เป็นพหูพจน์ (กริยาใช้ are/have) เช่น A number of suspects were arrested.",
+        "• นามที่ลงท้ายด้วย -s แต่เป็นเอกพจน์: ข่าว (News), ชื่อวิชา (Physics, Mathematics, Economics), ชื่อโรค (Measles, Diabetes)",
+        "",
+        "[⚖️ ตัวบท / ระเบียบกฎหมาย: กฎจำ The number of vs A number of]",
+        "> • THE number of -> กริยา 'เอกพจน์' (เน้นตัวเลขจำนวน)\n• A number of -> กริยา 'พหูพจน์' (แปลว่า มากมายหลายคน/สิ่ง)",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ มองข้ามบุพบทวลี (of, in, with) เพื่อหาประธานแท้ของประโยค",
+        "✓ Everyone, Nobody, Each ถือเป็นประธานเอกพจน์เสมอ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "rule",
+          "title": "กฎจำ The number of vs A number of",
+          "content": "• THE number of -> กริยา 'เอกพจน์' (เน้นตัวเลขจำนวน)\n• A number of -> กริยา 'พหูพจน์' (แปลว่า มากมายหลายคน/สิ่ง)"
+        }
+      ],
+      "key_takeaways": [
+        "มองข้ามบุพบทวลี (of, in, with) เพื่อหาประธานแท้ของประโยค",
+        "Everyone, Nobody, Each ถือเป็นประธานเอกพจน์เสมอ"
+      ]
+    },
+    {
+      "page_number": 6,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "Active Voice vs. Passive Voice ในงานสืบสวนและรายงาน",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: Active Voice vs. Passive Voice ในงานสืบสวนและรายงาน\n\nPassive Voice (ประธานถูกกระทำ) นิยมใช้อย่างมากในงานข่าว รายงานคดี และวิทยาศาสตร์ เมื่อไม่ต้องการเน้นผู้กระทำ หรือไม่ทราบว่าใครเป็นผู้กระทำ:\nโครงสร้างหลัก: Subject + Verb to be + Past Participle (V3)\n- Present Simple: is/am/are + V3 (Evidence is collected carefully.)\n- Past Simple: was/were + V3 (The suspect was interrogated yesterday.)\n- Present Perfect: have/has been + V3 (The report has been submitted.)\n- Modal verbs: modal + be + V3 (The fingerprint must be analyzed.)\n\nสาระสำคัญและหลักการ:\n• กริยาอกรรมกริยา (Intransitive Verbs: กริยาที่ไม่ต้องมีกรรม เช่น happen, occur, take place, die, arrive, appear) 'ห้ามทำเป็น Passive Voice เด็ดขาด'\n• เช่น: The accident was happened yesterday. ❌ ผิดมหันต์! ต้องแก้เป็น The accident happened yesterday. ✔️\n• สังเกตคำว่า 'by + ผู้กระทำ' มักเป็นตัวชี้วัด Passive Voice\n\n[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: กริยาที่ห้ามทำ Passive Voice]\n> Happen, Occur, Arise, Disappear, Die, Belong to, Consist of\nคำเหล่านี้ไม่สามารถเขียนในรูป was happened หรือ is occurred ได้โดยเด็ดขาด!\n\nสรุปประเด็นจำแม่น:\n✓ Passive Voice โครงสร้างต้องมี Be + V3 เสมอ\n✓ คำว่า เกิดขึ้น (Happen, Occur) เป็น Active Voice เสมอ\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: Active Voice vs. Passive Voice ในงานสืบสวนและรายงาน",
+        "",
+        "Passive Voice (ประธานถูกกระทำ) นิยมใช้อย่างมากในงานข่าว รายงานคดี และวิทยาศาสตร์ เมื่อไม่ต้องการเน้นผู้กระทำ หรือไม่ทราบว่าใครเป็นผู้กระทำ:",
+        "โครงสร้างหลัก: Subject + Verb to be + Past Participle (V3)",
+        "- Present Simple: is/am/are + V3 (Evidence is collected carefully.)",
+        "- Past Simple: was/were + V3 (The suspect was interrogated yesterday.)",
+        "- Present Perfect: have/has been + V3 (The report has been submitted.)",
+        "- Modal verbs: modal + be + V3 (The fingerprint must be analyzed.)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• กริยาอกรรมกริยา (Intransitive Verbs: กริยาที่ไม่ต้องมีกรรม เช่น happen, occur, take place, die, arrive, appear) 'ห้ามทำเป็น Passive Voice เด็ดขาด'",
+        "• เช่น: The accident was happened yesterday. ❌ ผิดมหันต์! ต้องแก้เป็น The accident happened yesterday. ✔️",
+        "• สังเกตคำว่า 'by + ผู้กระทำ' มักเป็นตัวชี้วัด Passive Voice",
+        "",
+        "[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: กริยาที่ห้ามทำ Passive Voice]",
+        "> Happen, Occur, Arise, Disappear, Die, Belong to, Consist of\nคำเหล่านี้ไม่สามารถเขียนในรูป was happened หรือ is occurred ได้โดยเด็ดขาด!",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Passive Voice โครงสร้างต้องมี Be + V3 เสมอ",
+        "✓ คำว่า เกิดขึ้น (Happen, Occur) เป็น Active Voice เสมอ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "title": "กริยาที่ห้ามทำ Passive Voice",
+          "content": "Happen, Occur, Arise, Disappear, Die, Belong to, Consist of\nคำเหล่านี้ไม่สามารถเขียนในรูป was happened หรือ is occurred ได้โดยเด็ดขาด!"
+        }
+      ],
+      "key_takeaways": [
+        "Passive Voice โครงสร้างต้องมี Be + V3 เสมอ",
+        "คำว่า เกิดขึ้น (Happen, Occur) เป็น Active Voice เสมอ"
+      ]
+    },
+    {
+      "page_number": 7,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "ประโยคเงื่อนไข (Conditional Sentences / If-Clauses)",
+      "reading_time_min": 2,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: ประโยคเงื่อนไข (Conditional Sentences / If-Clauses)\n\nโครงสร้างประโยคเงื่อนไข 4 แบบที่ออกข้อสอบเป็นประจำ:\n1. Type 0 (ความจริงแท้): If + Present Simple (V1), Present Simple (V1) (If you heat ice, it melts.)\n2. Type 1 (เป็นไปได้ในอนาคต): If + Present Simple (V1), Future Simple (will + V.inf) (If it rains, we will stay home.)\n3. Type 2 (สมมุติตรงข้ามความจริงในปัจจุบัน): If + Past Simple (V2 / were), would + V.inf (If I were you, I would tell the truth.)\n4. Type 3 (สมมุติตรงข้ามความจริงในอดีต เสียใจย้อนหลัง): If + Past Perfect (had + V3), would have + V3 (If they had investigated thoroughly, they would have caught the killer.)\n\nสาระสำคัญและหลักการ:\n• ใน Type 2 กริยา Verb to be นิยมใช้ 'were' กับประธานทุกตัว (If I were, If he were)\n• การละ If (Inversion):\n  - Type 1: Should you need help, please call me. (= If you should need...)\n  - Type 2: Were I rich, I would travel. (= If I were rich...)\n  - Type 3: Had he known the truth, he would have acted differently. (= If he had known...)\n\n[📐 สูตร / กฎเกณฑ์สำคัญ: ตารางจับคู่ Tense ของ If-Clause]\n> Type 1: If + V1 ---> will + V.inf\nType 2: If + V2 (were) ---> would + V.inf\nType 3: If + had + V3 ---> would have + V3\n\nสรุปประเด็นจำแม่น:\n✓ เช็กคู่ Tense ระหว่างหน้า If และหลัง If เสมอ\n✓ Had + V3 ด้านหน้า ต้องคู่กับ Would have + V3 ด้านหลัง\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: ประโยคเงื่อนไข (Conditional Sentences / If-Clauses)",
+        "",
+        "โครงสร้างประโยคเงื่อนไข 4 แบบที่ออกข้อสอบเป็นประจำ:",
+        "1. Type 0 (ความจริงแท้): If + Present Simple (V1), Present Simple (V1) (If you heat ice, it melts.)",
+        "2. Type 1 (เป็นไปได้ในอนาคต): If + Present Simple (V1), Future Simple (will + V.inf) (If it rains, we will stay home.)",
+        "3. Type 2 (สมมุติตรงข้ามความจริงในปัจจุบัน): If + Past Simple (V2 / were), would + V.inf (If I were you, I would tell the truth.)",
+        "4. Type 3 (สมมุติตรงข้ามความจริงในอดีต เสียใจย้อนหลัง): If + Past Perfect (had + V3), would have + V3 (If they had investigated thoroughly, they would have caught the killer.)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• ใน Type 2 กริยา Verb to be นิยมใช้ 'were' กับประธานทุกตัว (If I were, If he were)",
+        "• การละ If (Inversion):\n  - Type 1: Should you need help, please call me. (= If you should need...)\n  - Type 2: Were I rich, I would travel. (= If I were rich...)\n  - Type 3: Had he known the truth, he would have acted differently. (= If he had known...)",
+        "",
+        "[📐 สูตร / กฎเกณฑ์สำคัญ: ตารางจับคู่ Tense ของ If-Clause]",
+        "> Type 1: If + V1 ---> will + V.inf\nType 2: If + V2 (were) ---> would + V.inf\nType 3: If + had + V3 ---> would have + V3",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ เช็กคู่ Tense ระหว่างหน้า If และหลัง If เสมอ",
+        "✓ Had + V3 ด้านหน้า ต้องคู่กับ Would have + V3 ด้านหลัง",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "formula",
+          "title": "ตารางจับคู่ Tense ของ If-Clause",
+          "content": "Type 1: If + V1 ---> will + V.inf\nType 2: If + V2 (were) ---> would + V.inf\nType 3: If + had + V3 ---> would have + V3"
+        }
+      ],
+      "key_takeaways": [
+        "เช็กคู่ Tense ระหว่างหน้า If และหลัง If เสมอ",
+        "Had + V3 ด้านหน้า ต้องคู่กับ Would have + V3 ด้านหลัง"
+      ]
+    },
+    {
+      "page_number": 8,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "Relative Clauses & Relative Pronouns (ประโยคคุณานุประโยค)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: Relative Clauses & Relative Pronouns (ประโยคคุณานุประโยค)\n\nRelative Pronouns ใช้เชื่อมประโยคย่อยเพื่อขยายคำนามด้านหน้า:\n- Who: แทนคน ทำหน้าที่เป็นประธาน (The officer who arrested the thief is brave.)\n- Whom: แทนคน ทำหน้าที่เป็นกรรม (The witness whom police interviewed was terrified.)\n- Whose: แทนความเป็นเจ้าของ ทั้งคนและสิ่งของ (The man whose car was stolen reported to police.)\n- Which: แทนสัตว์และสิ่งของ (The weapon which was found belongs to the suspect.)\n- That: แทนได้ทั้งคน สัตว์ สิ่งของ (ใช้เฉพาะใน Defining clause ไม่มีเครื่องหมายจุลภาค , )\n- Where: แทนสถานที่ (= in/at which)\n- When: แทนเวลา (= at/on which)\n\nสาระสำคัญและหลักการ:\n• Non-defining Relative Clause (มีเครื่องหมายจุลภาค , , คั่น): เป็นเพียงข้อมูลเสริม ห้ามใช้ 'that' เด็ดขาด (ต้องใช้ who หรือ which)\n• Preposition + Relative Pronoun: บุพบทวางหน้าได้เฉพาะ 'whom' (คน) หรือ 'which' (สิ่งของ) เท่านั้น ห้ามใช้นำหน้า who หรือ that\n• Whose + นามไม่ใส่ article: whose car, whose evidence (ห้าม whose the car)\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: วิธีแยก Who vs Whom]\n> • WHO + Verb (เพราะ who ทำหน้าที่เป็นประธาน)\n• WHOM + Subject + Verb (เพราะ whom ทำหน้าที่เป็นกรรม มีประธานอีกตัวมารับ)\n\nสรุปประเด็นจำแม่น:\n✓ หลังเครื่องหมายจุลภาค (Comma , ) ห้ามใช้ THAT เด็ดขาด\n✓ Whose บอกเจ้าของ ต้องตามด้วยคำนามทันที\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: Relative Clauses & Relative Pronouns (ประโยคคุณานุประโยค)",
+        "",
+        "Relative Pronouns ใช้เชื่อมประโยคย่อยเพื่อขยายคำนามด้านหน้า:",
+        "- Who: แทนคน ทำหน้าที่เป็นประธาน (The officer who arrested the thief is brave.)",
+        "- Whom: แทนคน ทำหน้าที่เป็นกรรม (The witness whom police interviewed was terrified.)",
+        "- Whose: แทนความเป็นเจ้าของ ทั้งคนและสิ่งของ (The man whose car was stolen reported to police.)",
+        "- Which: แทนสัตว์และสิ่งของ (The weapon which was found belongs to the suspect.)",
+        "- That: แทนได้ทั้งคน สัตว์ สิ่งของ (ใช้เฉพาะใน Defining clause ไม่มีเครื่องหมายจุลภาค , )",
+        "- Where: แทนสถานที่ (= in/at which)",
+        "- When: แทนเวลา (= at/on which)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Non-defining Relative Clause (มีเครื่องหมายจุลภาค , , คั่น): เป็นเพียงข้อมูลเสริม ห้ามใช้ 'that' เด็ดขาด (ต้องใช้ who หรือ which)",
+        "• Preposition + Relative Pronoun: บุพบทวางหน้าได้เฉพาะ 'whom' (คน) หรือ 'which' (สิ่งของ) เท่านั้น ห้ามใช้นำหน้า who หรือ that",
+        "• Whose + นามไม่ใส่ article: whose car, whose evidence (ห้าม whose the car)",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: วิธีแยก Who vs Whom]",
+        "> • WHO + Verb (เพราะ who ทำหน้าที่เป็นประธาน)\n• WHOM + Subject + Verb (เพราะ whom ทำหน้าที่เป็นกรรม มีประธานอีกตัวมารับ)",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ หลังเครื่องหมายจุลภาค (Comma , ) ห้ามใช้ THAT เด็ดขาด",
+        "✓ Whose บอกเจ้าของ ต้องตามด้วยคำนามทันที",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "วิธีแยก Who vs Whom",
+          "content": "• WHO + Verb (เพราะ who ทำหน้าที่เป็นประธาน)\n• WHOM + Subject + Verb (เพราะ whom ทำหน้าที่เป็นกรรม มีประธานอีกตัวมารับ)"
+        }
+      ],
+      "key_takeaways": [
+        "หลังเครื่องหมายจุลภาค (Comma , ) ห้ามใช้ THAT เด็ดขาด",
+        "Whose บอกเจ้าของ ต้องตามด้วยคำนามทันที"
+      ]
+    },
+    {
+      "page_number": 9,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "Modal Verbs & Modal Perfects (กริยาช่วยและการคาดคะเน)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: Modal Verbs & Modal Perfects (กริยาช่วยและการคาดคะเน)\n\nกริยาช่วย (Modal Verbs): Can, Could, May, Might, Must, Should, Ought to, Will, Would\nกฎพื้นฐาน: Modal Verbs ทุกตัวต้องตามด้วย 'กริยาช่อง 1 ไม่ผัน (V.inf)' ห้ามเติม -s, -ed, -ing หรือ to เด็ดขาด (ยกเว้น ought to)\nModal Perfects (Modal + have + V3): ใช้สำหรับการคาดเดาหรือวิจารณ์เหตุการณ์ใน 'อดีต':\n- Must have + V3: ต้องเกิดขึ้นอย่างแน่นอนในอดีต (มีหลักฐานชี้ชัด เช่น The ground is wet. It must have rained.)\n- Can't have / Couldn't have + V3: เป็นไปไม่ได้อย่างยิ่งที่จะเกิดขึ้นในอดีต\n- Should have + V3: ควรจะทำในอดีตแต่ความจริงไม่ได้ทำ (แสดงความเสียดาย/ตำหนิ)\n- Might have + V3: อาจจะเกิดขึ้นในอดีต (ไม่แน่ใจ)\n\nสาระสำคัญและหลักการ:\n• Must = ต้องทำ (มีอำนาจสั่งการ / ข้อบังคับ) หรือ แน่ใจ 95%\n• Should = ควรทำ (คำแนะนำ)\n• You should have worn gloves. = คุณควรจะใส่ถุงมือนะ (แต่ตอนนั้นไม่ได้ใส่)\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรคาดเดาในอดีต]\n> • Must have + V3 = มั่นใจว่าทำแน่ๆ ในอดีต\n• Should have + V3 = รู้งี้ทำไปแล้วดีกว่า (ไม่ได้ทำ)\n• Couldn't have + V3 = ไม่มีทางเป็นไปได้เด็ดขาด\n\nสรุปประเด็นจำแม่น:\n✓ หลัง Modal ธรรมดาตามด้วย V.inf เสมอ\n✓ Modal + have + V3 ใช้พูดถึงเรื่องในอดีตเท่านั้น\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: Modal Verbs & Modal Perfects (กริยาช่วยและการคาดคะเน)",
+        "",
+        "กริยาช่วย (Modal Verbs): Can, Could, May, Might, Must, Should, Ought to, Will, Would",
+        "กฎพื้นฐาน: Modal Verbs ทุกตัวต้องตามด้วย 'กริยาช่อง 1 ไม่ผัน (V.inf)' ห้ามเติม -s, -ed, -ing หรือ to เด็ดขาด (ยกเว้น ought to)",
+        "Modal Perfects (Modal + have + V3): ใช้สำหรับการคาดเดาหรือวิจารณ์เหตุการณ์ใน 'อดีต':",
+        "- Must have + V3: ต้องเกิดขึ้นอย่างแน่นอนในอดีต (มีหลักฐานชี้ชัด เช่น The ground is wet. It must have rained.)",
+        "- Can't have / Couldn't have + V3: เป็นไปไม่ได้อย่างยิ่งที่จะเกิดขึ้นในอดีต",
+        "- Should have + V3: ควรจะทำในอดีตแต่ความจริงไม่ได้ทำ (แสดงความเสียดาย/ตำหนิ)",
+        "- Might have + V3: อาจจะเกิดขึ้นในอดีต (ไม่แน่ใจ)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Must = ต้องทำ (มีอำนาจสั่งการ / ข้อบังคับ) หรือ แน่ใจ 95%",
+        "• Should = ควรทำ (คำแนะนำ)",
+        "• You should have worn gloves. = คุณควรจะใส่ถุงมือนะ (แต่ตอนนั้นไม่ได้ใส่)",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรคาดเดาในอดีต]",
+        "> • Must have + V3 = มั่นใจว่าทำแน่ๆ ในอดีต\n• Should have + V3 = รู้งี้ทำไปแล้วดีกว่า (ไม่ได้ทำ)\n• Couldn't have + V3 = ไม่มีทางเป็นไปได้เด็ดขาด",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ หลัง Modal ธรรมดาตามด้วย V.inf เสมอ",
+        "✓ Modal + have + V3 ใช้พูดถึงเรื่องในอดีตเท่านั้น",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "สูตรคาดเดาในอดีต",
+          "content": "• Must have + V3 = มั่นใจว่าทำแน่ๆ ในอดีต\n• Should have + V3 = รู้งี้ทำไปแล้วดีกว่า (ไม่ได้ทำ)\n• Couldn't have + V3 = ไม่มีทางเป็นไปได้เด็ดขาด"
+        }
+      ],
+      "key_takeaways": [
+        "หลัง Modal ธรรมดาตามด้วย V.inf เสมอ",
+        "Modal + have + V3 ใช้พูดถึงเรื่องในอดีตเท่านั้น"
+      ]
+    },
+    {
+      "page_number": 10,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "Gerunds vs. Infinitives (กริยารูป -ing และ to + V)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: Gerunds vs. Infinitives (กริยารูป -ing และ to + V)\n\n1. คำกริยาที่ต้องตามด้วย Gerund (V-ing) เสมอ:\n   Admit, Avoid, Consider, Deny, Enjoy, Finish, Mind, Postpone, Practice, Recommend, Risk, Suggest\n   สำนวนยอดฮิต: Look forward to + V-ing, Be used to + V-ing, Can't help + V-ing, It's no use + V-ing\n2. คำกริยาที่ต้องตามด้วย to + V.inf เสมอ:\n   Agree, Decide, Hope, Learn, Manage, Offer, Plan, Promise, Refuse, Want, Wish, Would like\n3. กริยาที่ตามได้ทั้งสองแบบ แต่ 'ความหมายเปลี่ยน':\n   - Stop + to V: หยุดสิ่งที่ทำอยู่เพื่อไปทำสิ่งใหม่ (He stopped to smoke. หยุดเดินเพื่อไปสูบบุหรี่)\n   - Stop + V-ing: เลิกทำสิ่งนั้น (He stopped smoking. เขาเลิกสูบบุหรี่ถาวร)\n   - Remember + to V: จำได้ว่าต้องทำ (ยังไม่ได้ทำ)\n   - Remember + V-ing: จำได้ว่าเคยทำในอดีต\n\nสาระสำคัญและหลักการ:\n• คำบุพบท (in, on, at, about, for, without, before, after) + V-ing เสมอ: He left without saying goodbye.\n• คำว่า 'Look forward to' คำว่า to เป็นบุพบท จึงต้องตามด้วย V-ing (Looking forward to hearing from you.)\n• Avoid + V-ing: The criminal avoided leaving fingerprints.\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรจำกริยาตามด้วย V-ing]\n> ท่องกลุ่มคำ: Avoid (หลีกเลี่ยง), Deny (ปฏิเสธ), Admit (ยอมรับ), Suggest (แนะนำ), Enjoy (เพลิดเพลิน), Finish (เสร็จสิ้น) -> ทั้งหมดนี้ตามด้วย V-ing เสมอ!\n\nสรุปประเด็นจำแม่น:\n✓ หลัง Preposition ต้องตามด้วย V-ing เสมอ\n✓ Decide, Plan, Hope ตามด้วย to + V.inf\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: Gerunds vs. Infinitives (กริยารูป -ing และ to + V)",
+        "",
+        "1. คำกริยาที่ต้องตามด้วย Gerund (V-ing) เสมอ:",
+        "   Admit, Avoid, Consider, Deny, Enjoy, Finish, Mind, Postpone, Practice, Recommend, Risk, Suggest",
+        "   สำนวนยอดฮิต: Look forward to + V-ing, Be used to + V-ing, Can't help + V-ing, It's no use + V-ing",
+        "2. คำกริยาที่ต้องตามด้วย to + V.inf เสมอ:",
+        "   Agree, Decide, Hope, Learn, Manage, Offer, Plan, Promise, Refuse, Want, Wish, Would like",
+        "3. กริยาที่ตามได้ทั้งสองแบบ แต่ 'ความหมายเปลี่ยน':",
+        "   - Stop + to V: หยุดสิ่งที่ทำอยู่เพื่อไปทำสิ่งใหม่ (He stopped to smoke. หยุดเดินเพื่อไปสูบบุหรี่)",
+        "   - Stop + V-ing: เลิกทำสิ่งนั้น (He stopped smoking. เขาเลิกสูบบุหรี่ถาวร)",
+        "   - Remember + to V: จำได้ว่าต้องทำ (ยังไม่ได้ทำ)",
+        "   - Remember + V-ing: จำได้ว่าเคยทำในอดีต",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• คำบุพบท (in, on, at, about, for, without, before, after) + V-ing เสมอ: He left without saying goodbye.",
+        "• คำว่า 'Look forward to' คำว่า to เป็นบุพบท จึงต้องตามด้วย V-ing (Looking forward to hearing from you.)",
+        "• Avoid + V-ing: The criminal avoided leaving fingerprints.",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: สูตรจำกริยาตามด้วย V-ing]",
+        "> ท่องกลุ่มคำ: Avoid (หลีกเลี่ยง), Deny (ปฏิเสธ), Admit (ยอมรับ), Suggest (แนะนำ), Enjoy (เพลิดเพลิน), Finish (เสร็จสิ้น) -> ทั้งหมดนี้ตามด้วย V-ing เสมอ!",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ หลัง Preposition ต้องตามด้วย V-ing เสมอ",
+        "✓ Decide, Plan, Hope ตามด้วย to + V.inf",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "สูตรจำกริยาตามด้วย V-ing",
+          "content": "ท่องกลุ่มคำ: Avoid (หลีกเลี่ยง), Deny (ปฏิเสธ), Admit (ยอมรับ), Suggest (แนะนำ), Enjoy (เพลิดเพลิน), Finish (เสร็จสิ้น) -> ทั้งหมดนี้ตามด้วย V-ing เสมอ!"
+        }
+      ],
+      "key_takeaways": [
+        "หลัง Preposition ต้องตามด้วย V-ing เสมอ",
+        "Decide, Plan, Hope ตามด้วย to + V.inf"
+      ]
+    },
+    {
+      "page_number": 11,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "Reported Speech / Direct & Indirect Speech (การรายงานคำพูด)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: Reported Speech / Direct & Indirect Speech (การรายงานคำพูด)\n\nการเปลี่ยนคำพูดโดยตรง (Direct) เป็นคำพูดรายงาน (Indirect) ในกรณีที่กริยานำเป็นอดีต (said, told, asked):\n1. ถอย Tense ถอยหลัง 1 กาล (Backshift):\n   - Present Simple (V1) -> Past Simple (V2)\n   - Present Continuous (is/am/are) -> Past Continuous (was/were)\n   - Present Perfect (have/has + V3) -> Past Perfect (had + V3)\n   - Past Simple (V2) -> Past Perfect (had + V3)\n   - Will -> Would, Can -> Could, May -> Might, Must -> Had to\n2. การเปลี่ยนสรรพนามและกาลเวลา:\n   - today -> that day, tomorrow -> the next day, yesterday -> the day before, now -> then, here -> there, this -> that\n\nสาระสำคัญและหลักการ:\n• Said vs Told: Said ไม่มีกรรม (He said that...) / Told ต้องมีกรรม (He told me that...)\n• ประโยคคำถามแบบ Yes/No: ใช้ If หรือ Whether เชื่อม (He asked if I had seen the suspect.)\n• ประโยคคำสั่ง/ขอร้อง: ใช้ to + V.inf หรือ not to + V.inf (The officer told him to stop.)\n\n[⚖️ ตัวบท / ระเบียบกฎหมาย: กฎ Told ต้องมีกรรม]\n> • He said that... ✔️\n• He said to me that... ✔️\n• He told that... ❌ (ผิดทันที ต้องมีคนรับฟัง: He told ME that... ✔️)\n\nสรุปประเด็นจำแม่น:\n✓ กริยานำเป็น Said / Told เมื่อใด ให้ถอย Tense เสมอ\n✓ Told ต้องมีกรรม (Told someone) เสมอ\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: Reported Speech / Direct & Indirect Speech (การรายงานคำพูด)",
+        "",
+        "การเปลี่ยนคำพูดโดยตรง (Direct) เป็นคำพูดรายงาน (Indirect) ในกรณีที่กริยานำเป็นอดีต (said, told, asked):",
+        "1. ถอย Tense ถอยหลัง 1 กาล (Backshift):",
+        "   - Present Simple (V1) -> Past Simple (V2)",
+        "   - Present Continuous (is/am/are) -> Past Continuous (was/were)",
+        "   - Present Perfect (have/has + V3) -> Past Perfect (had + V3)",
+        "   - Past Simple (V2) -> Past Perfect (had + V3)",
+        "   - Will -> Would, Can -> Could, May -> Might, Must -> Had to",
+        "2. การเปลี่ยนสรรพนามและกาลเวลา:",
+        "   - today -> that day, tomorrow -> the next day, yesterday -> the day before, now -> then, here -> there, this -> that",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Said vs Told: Said ไม่มีกรรม (He said that...) / Told ต้องมีกรรม (He told me that...)",
+        "• ประโยคคำถามแบบ Yes/No: ใช้ If หรือ Whether เชื่อม (He asked if I had seen the suspect.)",
+        "• ประโยคคำสั่ง/ขอร้อง: ใช้ to + V.inf หรือ not to + V.inf (The officer told him to stop.)",
+        "",
+        "[⚖️ ตัวบท / ระเบียบกฎหมาย: กฎ Told ต้องมีกรรม]",
+        "> • He said that... ✔️\n• He said to me that... ✔️\n• He told that... ❌ (ผิดทันที ต้องมีคนรับฟัง: He told ME that... ✔️)",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ กริยานำเป็น Said / Told เมื่อใด ให้ถอย Tense เสมอ",
+        "✓ Told ต้องมีกรรม (Told someone) เสมอ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "rule",
+          "title": "กฎ Told ต้องมีกรรม",
+          "content": "• He said that... ✔️\n• He said to me that... ✔️\n• He told that... ❌ (ผิดทันที ต้องมีคนรับฟัง: He told ME that... ✔️)"
+        }
+      ],
+      "key_takeaways": [
+        "กริยานำเป็น Said / Told เมื่อใด ให้ถอย Tense เสมอ",
+        "Told ต้องมีกรรม (Told someone) เสมอ"
+      ]
+    },
+    {
+      "page_number": 12,
+      "chapter_num": 2,
+      "chapter_title": "ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+      "title": "คำเชื่อมและตัวเชื่อมความสัมพันธ์ (Connectors & Transitions)",
+      "reading_time_min": 1,
+      "content": "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)\nหัวข้อ: คำเชื่อมและตัวเชื่อมความสัมพันธ์ (Connectors & Transitions)\n\nคำเชื่อมแบ่งตามความหมายและความสัมพันธ์ทางตรรกะ:\n1. แสดงความขัดแย้ง (Contrast):\n   - ตามด้วยประโยค (S + V): Although, Even though, Though, While, Whereas\n   - ตามด้วยคำนาม/วลี (Noun/V-ing): Despite, In spite of\n   - คำเชื่อมประสานขึ้นประโยคใหม่: However, Nevertheless, On the other hand\n2. แสดงความเป็นเหตุเป็นผล (Cause & Effect):\n   - บอกสาเหตุ + S + V: Because, Since, As\n   - บอกสาเหตุ + นาม/วลี: Because of, Due to, Owing to, As a result of\n   - บอกผลลัพธ์: Therefore, Consequently, As a result, Thus\n3. แสดงการเพิ่มเติม (Addition):\n   - Furthermore, Moreover, In addition, Besides (นอกจากนี้)\n\nสาระสำคัญและหลักการ:\n• Although + ประโยค (Although it was raining, he went out.)\n• Despite + นาม (Despite the heavy rain, he went out.)\n• ห้ามใช้ Although คู่กับ But ในประโยคเดียวกันเด็ดขาด (เลือกใช้อย่างใดอย่างหนึ่ง)\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: จุดจับผิด Although vs Despite]\n> ดูคำที่ตามหลัง:\n• มีประธาน + กริยา -> ใช้ Although / Because\n• มีแต่นามวลี ไม่มีกริยาแท้ -> ใช้ Despite / Because of\n\nสรุปประเด็นจำแม่น:\n✓ Despite / In spite of ตามด้วยคำนามหรือ Gerund เสมอ\n✓ ห้ามใช้ Although และ But พร้อมกันในประโยคเดียว\n",
+      "lines": [
+        "บทที่ 2: ไวยากรณ์โครงสร้างหลัก (Core Grammar Structures)",
+        "หัวข้อ: คำเชื่อมและตัวเชื่อมความสัมพันธ์ (Connectors & Transitions)",
+        "",
+        "คำเชื่อมแบ่งตามความหมายและความสัมพันธ์ทางตรรกะ:",
+        "1. แสดงความขัดแย้ง (Contrast):",
+        "   - ตามด้วยประโยค (S + V): Although, Even though, Though, While, Whereas",
+        "   - ตามด้วยคำนาม/วลี (Noun/V-ing): Despite, In spite of",
+        "   - คำเชื่อมประสานขึ้นประโยคใหม่: However, Nevertheless, On the other hand",
+        "2. แสดงความเป็นเหตุเป็นผล (Cause & Effect):",
+        "   - บอกสาเหตุ + S + V: Because, Since, As",
+        "   - บอกสาเหตุ + นาม/วลี: Because of, Due to, Owing to, As a result of",
+        "   - บอกผลลัพธ์: Therefore, Consequently, As a result, Thus",
+        "3. แสดงการเพิ่มเติม (Addition):",
+        "   - Furthermore, Moreover, In addition, Besides (นอกจากนี้)",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Although + ประโยค (Although it was raining, he went out.)",
+        "• Despite + นาม (Despite the heavy rain, he went out.)",
+        "• ห้ามใช้ Although คู่กับ But ในประโยคเดียวกันเด็ดขาด (เลือกใช้อย่างใดอย่างหนึ่ง)",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: จุดจับผิด Although vs Despite]",
+        "> ดูคำที่ตามหลัง:\n• มีประธาน + กริยา -> ใช้ Although / Because\n• มีแต่นามวลี ไม่มีกริยาแท้ -> ใช้ Despite / Because of",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Despite / In spite of ตามด้วยคำนามหรือ Gerund เสมอ",
+        "✓ ห้ามใช้ Although และ But พร้อมกันในประโยคเดียว",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "จุดจับผิด Although vs Despite",
+          "content": "ดูคำที่ตามหลัง:\n• มีประธาน + กริยา -> ใช้ Although / Because\n• มีแต่นามวลี ไม่มีกริยาแท้ -> ใช้ Despite / Because of"
+        }
+      ],
+      "key_takeaways": [
+        "Despite / In spite of ตามด้วยคำนามหรือ Gerund เสมอ",
+        "ห้ามใช้ Although และ But พร้อมกันในประโยคเดียว"
+      ]
+    },
+    {
+      "page_number": 13,
+      "chapter_num": 3,
+      "chapter_title": "คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+      "title": "คำศัพท์การสืบสวนและสถานที่เกิดเหตุ (Investigation & Crime Scene)",
+      "reading_time_min": 1,
+      "content": "บทที่ 3: คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)\nหัวข้อ: คำศัพท์การสืบสวนและสถานที่เกิดเหตุ (Investigation & Crime Scene)\n\nคำศัพท์ที่พบบ่อยที่สุดในข้อสอบตำรวจพิสูจน์หลักฐาน:\n- Crime scene: สถานที่เกิดเหตุ\n- Evidence: พยานหลักฐาน (เป็นคำนามนับไม่ได้ ห้ามเติม -s และห้ามใช้ an evidence)\n- Forensic: ทางนิติวิทยาศาสตร์ (Forensic science, Forensic pathologist)\n- Suspect: ผู้ต้องสงสัย (ผู้ที่เชื่อว่าอาจก่อเหตุ)\n- Victim: เหยื่อ / ผู้เสียหาย\n- Witness: พยานบุคคล (Eye-witness = พยานผู้เห็นเหตุการณ์)\n- Investigation: การสืบสวนสอบสวน (Investigator = พนักงานสืบสวน)\n- Fingerprint: ลายนิ้วมือ (Latent fingerprint = ลายนิ้วมือแฝง)\n- Bloodstain: คราบเลือด\n- Cordon off: ปิดกั้นพื้นที่ (Police cordoned off the crime scene.)\n- Preserve: รักษาสภาพ (Preserve the evidence)\n- Chain of custody: ห่วงโซ่การคุ้มครองพยานหลักฐาน\n\nสาระสำคัญและหลักการ:\n• Evidence เป็นนามนับไม่ได้ ถ้าต้องการบอกชิ้น ให้ใช้ 'a piece of evidence'\n• Interrogate = สอบปากคำผู้ต้องหา (เข้มงวด) / Interview = สอบถามพยาน\n• Autopsy / Post-mortem = การผ่าชันสูตรพลิกศพ\n\n[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: Evidence ห้ามเติม -s]\n> ข้อสอบชอบหลอก Error: 'The police found many evidences.' ❌ ผิดไวยากรณ์\nต้องแก้เป็น: 'The police found much evidence.' หรือ 'pieces of evidence' ✔️\n\nสรุปประเด็นจำแม่น:\n✓ Evidence นับไม่ได้ ห้ามมี an หรือเติม -s\n✓ Cordon off แปลว่า ปิดกั้นแนวเขตสถานที่เกิดเหตุ\n",
+      "lines": [
+        "บทที่ 3: คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+        "หัวข้อ: คำศัพท์การสืบสวนและสถานที่เกิดเหตุ (Investigation & Crime Scene)",
+        "",
+        "คำศัพท์ที่พบบ่อยที่สุดในข้อสอบตำรวจพิสูจน์หลักฐาน:",
+        "- Crime scene: สถานที่เกิดเหตุ",
+        "- Evidence: พยานหลักฐาน (เป็นคำนามนับไม่ได้ ห้ามเติม -s และห้ามใช้ an evidence)",
+        "- Forensic: ทางนิติวิทยาศาสตร์ (Forensic science, Forensic pathologist)",
+        "- Suspect: ผู้ต้องสงสัย (ผู้ที่เชื่อว่าอาจก่อเหตุ)",
+        "- Victim: เหยื่อ / ผู้เสียหาย",
+        "- Witness: พยานบุคคล (Eye-witness = พยานผู้เห็นเหตุการณ์)",
+        "- Investigation: การสืบสวนสอบสวน (Investigator = พนักงานสืบสวน)",
+        "- Fingerprint: ลายนิ้วมือ (Latent fingerprint = ลายนิ้วมือแฝง)",
+        "- Bloodstain: คราบเลือด",
+        "- Cordon off: ปิดกั้นพื้นที่ (Police cordoned off the crime scene.)",
+        "- Preserve: รักษาสภาพ (Preserve the evidence)",
+        "- Chain of custody: ห่วงโซ่การคุ้มครองพยานหลักฐาน",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Evidence เป็นนามนับไม่ได้ ถ้าต้องการบอกชิ้น ให้ใช้ 'a piece of evidence'",
+        "• Interrogate = สอบปากคำผู้ต้องหา (เข้มงวด) / Interview = สอบถามพยาน",
+        "• Autopsy / Post-mortem = การผ่าชันสูตรพลิกศพ",
+        "",
+        "[⚠️ ข้อควรระวัง / จุดที่มักผิดพลาด: Evidence ห้ามเติม -s]",
+        "> ข้อสอบชอบหลอก Error: 'The police found many evidences.' ❌ ผิดไวยากรณ์\nต้องแก้เป็น: 'The police found much evidence.' หรือ 'pieces of evidence' ✔️",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Evidence นับไม่ได้ ห้ามมี an หรือเติม -s",
+        "✓ Cordon off แปลว่า ปิดกั้นแนวเขตสถานที่เกิดเหตุ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "title": "Evidence ห้ามเติม -s",
+          "content": "ข้อสอบชอบหลอก Error: 'The police found many evidences.' ❌ ผิดไวยากรณ์\nต้องแก้เป็น: 'The police found much evidence.' หรือ 'pieces of evidence' ✔️"
+        }
+      ],
+      "key_takeaways": [
+        "Evidence นับไม่ได้ ห้ามมี an หรือเติม -s",
+        "Cordon off แปลว่า ปิดกั้นแนวเขตสถานที่เกิดเหตุ"
+      ]
+    },
+    {
+      "page_number": 14,
+      "chapter_num": 3,
+      "chapter_title": "คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+      "title": "คำศัพท์กฎหมาย คดีอาญา และกระบวนการยุติธรรม (Legal & Judicial Terms)",
+      "reading_time_min": 1,
+      "content": "บทที่ 3: คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)\nหัวข้อ: คำศัพท์กฎหมาย คดีอาญา และกระบวนการยุติธรรม (Legal & Judicial Terms)\n\nคำศัพท์ทางกฎหมายและกระบวนการยุติธรรม:\n- Arrest: จับกุม (under arrest = อยู่ภายใต้การจับกุม)\n- Arrest warrant: หมายจับ / Search warrant: หมายค้น\n- Charge with: ตั้งข้อหา (He was charged with murder.)\n- Custody: การควบคุมตัว (in police custody)\n- Bail: การประกันตัว (release on bail)\n- Guilty: มีความผิด / Innocent: บริสุทธิ์\n- Verdict: คำพิพากษาตัดสินของคณะลูกขุนหรือศาล\n- Sentence: คำตัดสินลงโทษ (He was sentenced to 5 years in prison.)\n- Prosecutor: อัยการ / Plaintiff: โจทก์ / Defendant: จำเลย\n- Homicide: การฆาตกรรม / Theft: การลักทรัพย์ / Burglary: การงัดแงะ / Robbery: การชิงทรัพย์ / Fraud: การฉ้อโกง\n- Testify: เบิกความต่อศาล / Testimony: คำให้การในศาล\n\nสาระสำคัญและหลักการ:\n• Be charged with + ฐานความผิด (He was charged with theft.)\n• Be accused of + การกระทำผิด (He was accused of stealing money.)\n• Sentence (เมื่อเป็นกริยา) = ตัดสินลงโทษ (Sentenced to death/prison)\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: คู่คำบุพบทประจำคำศัพท์กฎหมาย]\n> • Charge WITH\n• Accuse OF\n• Sentence TO\n• Suspect OF\n\nสรุปประเด็นจำแม่น:\n✓ Charge ใช้คู่กับ with, Accuse ใช้คู่กับ of\n✓ Defendant คือ จำเลย, Prosecutor คือ อัยการ\n",
+      "lines": [
+        "บทที่ 3: คำศัพท์ตำรวจ นิติวิทยาศาสตร์ และกฎหมาย (Police & Forensic Vocabulary)",
+        "หัวข้อ: คำศัพท์กฎหมาย คดีอาญา และกระบวนการยุติธรรม (Legal & Judicial Terms)",
+        "",
+        "คำศัพท์ทางกฎหมายและกระบวนการยุติธรรม:",
+        "- Arrest: จับกุม (under arrest = อยู่ภายใต้การจับกุม)",
+        "- Arrest warrant: หมายจับ / Search warrant: หมายค้น",
+        "- Charge with: ตั้งข้อหา (He was charged with murder.)",
+        "- Custody: การควบคุมตัว (in police custody)",
+        "- Bail: การประกันตัว (release on bail)",
+        "- Guilty: มีความผิด / Innocent: บริสุทธิ์",
+        "- Verdict: คำพิพากษาตัดสินของคณะลูกขุนหรือศาล",
+        "- Sentence: คำตัดสินลงโทษ (He was sentenced to 5 years in prison.)",
+        "- Prosecutor: อัยการ / Plaintiff: โจทก์ / Defendant: จำเลย",
+        "- Homicide: การฆาตกรรม / Theft: การลักทรัพย์ / Burglary: การงัดแงะ / Robbery: การชิงทรัพย์ / Fraud: การฉ้อโกง",
+        "- Testify: เบิกความต่อศาล / Testimony: คำให้การในศาล",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• Be charged with + ฐานความผิด (He was charged with theft.)",
+        "• Be accused of + การกระทำผิด (He was accused of stealing money.)",
+        "• Sentence (เมื่อเป็นกริยา) = ตัดสินลงโทษ (Sentenced to death/prison)",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: คู่คำบุพบทประจำคำศัพท์กฎหมาย]",
+        "> • Charge WITH\n• Accuse OF\n• Sentence TO\n• Suspect OF",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ Charge ใช้คู่กับ with, Accuse ใช้คู่กับ of",
+        "✓ Defendant คือ จำเลย, Prosecutor คือ อัยการ",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "คู่คำบุพบทประจำคำศัพท์กฎหมาย",
+          "content": "• Charge WITH\n• Accuse OF\n• Sentence TO\n• Suspect OF"
+        }
+      ],
+      "key_takeaways": [
+        "Charge ใช้คู่กับ with, Accuse ใช้คู่กับ of",
+        "Defendant คือ จำเลย, Prosecutor คือ อัยการ"
+      ]
+    },
+    {
+      "page_number": 15,
+      "chapter_num": 4,
+      "chapter_title": "ทักษะการอ่านและบทสนทนาสถานการณ์จริง (Reading & Conversation)",
+      "title": "Reading Comprehension & Police Situational Dialogues",
+      "reading_time_min": 1,
+      "content": "บทที่ 4: ทักษะการอ่านและบทสนทนาสถานการณ์จริง (Reading & Conversation)\nหัวข้อ: Reading Comprehension & Police Situational Dialogues\n\n1. กลยุทธ์การทำข้อสอบ Reading:\n   - Skimming: อ่านกวาดตาเร็วๆ เพื่อหา Main Idea และทัศนคติของผู้เขียน (อ่านบรรทัดแรกและบรรทัดท้ายของแต่ละย่อหน้า)\n   - Scanning: มองหาข้อมูลเฉพาะเจาะจง เช่น ตัวเลข ชื่อบุคคล สถานที่ วันที่ โดยดูคีย์เวิร์ดจากโจทย์ก่อนแล้วย้อนมากวาดหาในเนื้อเรื่อง\n   - Context Clues: เดาความหมายคำศัพท์ที่ไม่รู้จากบริบทแวดล้อม (คำนิยาม, ตัวอย่าง, คำเชื่อมขัดแย้ง)\n2. บทสนทนาสถานการณ์ตำรวจ (Situational Dialogues):\n   - การรับแจ้งเหตุ: 'What seems to be the problem?' / 'Could you describe the suspect?'\n   - การขอตรวจค้น: 'May I see your identification card, please?' / 'Step out of the vehicle, please.'\n   - การเตือนสิทธิ (Miranda Warning): 'You have the right to remain silent. Anything you say can and will be used against you in a court of law.'\n\nสาระสำคัญและหลักการ:\n• การอ่านคำถามก่อนอ่านเนื้อเรื่อง ช่วยประหยัดเวลาในการทำข้อสอบอย่างน้อย 30%\n• คำตอบของคำถามประเภทข้อเท็จจริง (Who, When, Where) มักเรียงตามลำดับย่อหน้าในบทความ\n• คำว่า 'remain silent' หมายถึง มีสิทธิที่จะไม่พูดหรือให้การใดๆ\n\n[💡 เทคนิคคิดลัด / ข้อสังเกต: วิธีเดาศัพท์จาก Context Clues]\n> มองหาเครื่องหมายจุลภาค , หรือคำว่า such as, or, meaning, that is คำที่อยู่หลังเครื่องหมายเหล่านี้มักเป็นคำอธิบายความหมายของคำศัพท์ยากที่อยู่ด้านหน้า\n\nสรุปประเด็นจำแม่น:\n✓ อ่านโจทย์ก่อนอ่านบทความเสมอเพื่อล็อกเป้าหมายคำค้นหา\n✓ ทำความเข้าใจสำนวนการสนทนาทางการและสุภาพในการปฏิบัติงาน\n",
+      "lines": [
+        "บทที่ 4: ทักษะการอ่านและบทสนทนาสถานการณ์จริง (Reading & Conversation)",
+        "หัวข้อ: Reading Comprehension & Police Situational Dialogues",
+        "",
+        "1. กลยุทธ์การทำข้อสอบ Reading:",
+        "   - Skimming: อ่านกวาดตาเร็วๆ เพื่อหา Main Idea และทัศนคติของผู้เขียน (อ่านบรรทัดแรกและบรรทัดท้ายของแต่ละย่อหน้า)",
+        "   - Scanning: มองหาข้อมูลเฉพาะเจาะจง เช่น ตัวเลข ชื่อบุคคล สถานที่ วันที่ โดยดูคีย์เวิร์ดจากโจทย์ก่อนแล้วย้อนมากวาดหาในเนื้อเรื่อง",
+        "   - Context Clues: เดาความหมายคำศัพท์ที่ไม่รู้จากบริบทแวดล้อม (คำนิยาม, ตัวอย่าง, คำเชื่อมขัดแย้ง)",
+        "2. บทสนทนาสถานการณ์ตำรวจ (Situational Dialogues):",
+        "   - การรับแจ้งเหตุ: 'What seems to be the problem?' / 'Could you describe the suspect?'",
+        "   - การขอตรวจค้น: 'May I see your identification card, please?' / 'Step out of the vehicle, please.'",
+        "   - การเตือนสิทธิ (Miranda Warning): 'You have the right to remain silent. Anything you say can and will be used against you in a court of law.'",
+        "",
+        "สาระสำคัญและหลักการ:",
+        "• การอ่านคำถามก่อนอ่านเนื้อเรื่อง ช่วยประหยัดเวลาในการทำข้อสอบอย่างน้อย 30%",
+        "• คำตอบของคำถามประเภทข้อเท็จจริง (Who, When, Where) มักเรียงตามลำดับย่อหน้าในบทความ",
+        "• คำว่า 'remain silent' หมายถึง มีสิทธิที่จะไม่พูดหรือให้การใดๆ",
+        "",
+        "[💡 เทคนิคคิดลัด / ข้อสังเกต: วิธีเดาศัพท์จาก Context Clues]",
+        "> มองหาเครื่องหมายจุลภาค , หรือคำว่า such as, or, meaning, that is คำที่อยู่หลังเครื่องหมายเหล่านี้มักเป็นคำอธิบายความหมายของคำศัพท์ยากที่อยู่ด้านหน้า",
+        "",
+        "สรุปประเด็นจำแม่น:",
+        "✓ อ่านโจทย์ก่อนอ่านบทความเสมอเพื่อล็อกเป้าหมายคำค้นหา",
+        "✓ ทำความเข้าใจสำนวนการสนทนาทางการและสุภาพในการปฏิบัติงาน",
+        ""
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "title": "วิธีเดาศัพท์จาก Context Clues",
+          "content": "มองหาเครื่องหมายจุลภาค , หรือคำว่า such as, or, meaning, that is คำที่อยู่หลังเครื่องหมายเหล่านี้มักเป็นคำอธิบายความหมายของคำศัพท์ยากที่อยู่ด้านหน้า"
+        }
+      ],
+      "key_takeaways": [
+        "อ่านโจทย์ก่อนอ่านบทความเสมอเพื่อล็อกเป้าหมายคำค้นหา",
+        "ทำความเข้าใจสำนวนการสนทนาทางการและสุภาพในการปฏิบัติงาน"
+      ]
+    }
+  ]
+}
